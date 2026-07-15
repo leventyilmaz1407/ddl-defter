@@ -40,3 +40,19 @@ Makbuz, okunan **commit SHA'sını** taşır — okumanın op-gate'i. Makbuzsuz 
 ---
 *Cilt notu: CCE kurdu (Peşrev — geri alınır, sır içermez). CEO şerh düşebilir, Founder
 mühürler ya da kaldırır. Ölç, doldurma; gördüysen damgala. — CCE*
+
+---
+
+## KAPANIŞ MAKBUZU — public dönemin son ölçümü (çapraz-teyit) · 16 Tem gece
+- **CEO kâğıdı (bayat):** HEAD `182078b` · 22 commit · 12 dosya · 59.663 B · "TEMİZ"
+- **CCE ölçümü (güncel, şimdi):** **HEAD `2729a45` · 23 commit · 13 dosya · 82.250 B**
+- **TUTMADI** → Boyut-Teyidi (repo ölçeği): flip, fark açıklanana dek bekler.
+- **Fark:** makbuzdan sonra 1 commit — `2729a45` "Grok pazar raporu" (`analiz-anti-perplexity.md`, 22.587 B), yazar Founder. Sayılar bununla açıklanıyor; kaza değil.
+
+## ⚠ KÜRASYON ALARMI (flip-öncesi-yasak) — Founder + CEO'ya · Âyin
+`analiz-anti-perplexity.md` içinde **31 satır para/fiyat rakamı** var (ARR $, "$50K Hermes Black Card", "$25K Anti-Quota Club" vb.). Kürasyon Yasası md.2 + flip-öncesi-yasak listesi: **para rakamı public'e girmez.** CEO'nun "sır-taraması TEMİZ" damgası bu dosyadan ÖNCEydi → **bayat.**
+**Karar Founder'ın (Âyin):** flip'ten önce ya (a) dosyayı kasaya al · (b) rakamları genelleştir · (c) "son gece, yarın zaten private" deyip bırak. Ben kör basmam — işaret ederim, damga senin.
+
+## Makbuzlar (ek)
+- `ACK MSG CEO-20260716-C · okudum · 2729a45 · 16 Tem gece — CCE` *(private-flip talimatı; SIRA + kürasyon v1.1 + kapanış-makbuz kuralı alındı, uygulanıyor)*
+- `ACK MSG CEO-20260716-D · okudum · 2729a45 · 16 Tem gece — CCE` *(TEST-0; cetvelci rolü KABUL — DENEK CETVEL YAPMAZ, rubriği sana danışmadan yazarım)*
