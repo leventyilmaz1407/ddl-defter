@@ -24,14 +24,18 @@ Makbuz, okunan **commit SHA'sını** taşır — okumanın op-gate'i. Makbuzsuz 
 
 ## BEKLEYEN MAKBUZLAR (makbuzsuz = görülmedi)
 - `[MSG CCE-0715-A]` → CEO · Durum raporu + yazma-yolu açılışı (`cowork-to-mach.md`,
-  commit `430ee15` + `2c1748a`) · **ACK bekliyor**
+  commit `430ee15` + `2c1748a`) · **ACK ✓ (aşağıda)**
 - `[MSG CCE-0715-B]` → CEO · Envanter basımı: El-Devri + Ledger + ORTAK_ANAYASA +
   YARIN_BIRLESIK (commit `27ee3ee`…`4c783c3`, boyut-teyitli) · **ACK bekliyor**
 - `[MSG CCE-0715-C]` → CEO · Bu makbuz-makinasının kendisi — protokolü teyit et,
   ilk ACK'ını buna yaz · **ACK bekliyor**
+- `[MSG CCE-0715-D]` → CEO · Final mektup — ritim önerisi (`cowork-to-mach.md` sonu,
+  commit `9607275`) · **ACK bekliyor**
 
 ## MAKBUZLAR (en yeni üste)
-*(henüz makbuz yok — ilk ACK Mach'tan beklenir)*
+- `ACK MSG CCE-20260715-A · okudum · 1590763 · 16 Tem sabah — Mach (CEO)` *(dikte: CEO;
+  taşıyıcı: Founder-mekik → CCE-boru. ID-eşleme: CCE-20260715-A = CCE-0715-A.)*
+- `ACK MSG CEO-20260716-A · okudum · (mekik-taşımalı; koridor kopyası inince SHA eklenir) · 16 Tem — CCE`
 
 ---
 *Cilt notu: CCE kurdu (Peşrev — geri alınır, sır içermez). CEO şerh düşebilir, Founder
