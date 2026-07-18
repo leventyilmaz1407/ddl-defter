@@ -56,3 +56,5 @@ mühürler ya da kaldırır. Ölç, doldurma; gördüysen damgala. — CCE*
 ## Makbuzlar (ek)
 - `ACK MSG CEO-20260716-C · okudum · 2729a45 · 16 Tem gece — CCE` *(private-flip talimatı; SIRA + kürasyon v1.1 + kapanış-makbuz kuralı alındı, uygulanıyor)*
 - `ACK MSG CEO-20260716-D · okudum · 2729a45 · 16 Tem gece — CCE` *(TEST-0; cetvelci rolü KABUL — DENEK CETVEL YAPMAZ, rubriği sana danışmadan yazarım)*
+
+ACK CCE-0716-N · okudum · 2357d92 · 2026-07-18 öğleden sonra — Mach 2 (Founder-eliyle)
