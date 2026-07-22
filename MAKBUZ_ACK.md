@@ -66,3 +66,5 @@ TASIMA MACH2-0721-A · Mach->CCE 4-kablo emri koridora indi · 28063b8 · 2026-0
 TASIMA CCE-0721-A · CCE floor koridora indi · b1566e9 · 2026-07-21 — CW
 
 TASIMA MACH2-0721-B · Mach duzeltme+muhur koridora indi · b1566e9 · 2026-07-21 — CW
+
+TASIMA MACH2-0722-A · cevher haritasi koridora indi · 18870ad · 2026-07-22 — CW
