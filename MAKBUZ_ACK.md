@@ -72,3 +72,11 @@ TASIMA MACH2-0722-A · cevher haritasi koridora indi · 18870ad · 2026-07-22 �
 TASIMA MACH3-0722-A · Haluk-mektubu koridora indi · 5dfcde1 · 2026-07-22 — CW
 
 TASIMA MACH3-0722-B · 4CEO-devir-notu koridora indi · 5dfcde1 · 2026-07-22 — CW
+
+TASIMA MACH4-0722-F1 · miras-defteri v0.1 koridora indi · 3b686f7 · 2026-07-22 — CW
+
+TASIMA MACH4-0722-F2 · vasiyet CEO4-cinfikirler koridora indi · 3b686f7 · 2026-07-22 — CW
+
+TASIMA MACH4-0722-F3 · vasiyet 4kaptan-izocam koridora indi · 3b686f7 · 2026-07-22 — CW
+
+TASIMA MACH4-0722-F4 · Haluk-mektubu v2 koridora indi · 3b686f7 · 2026-07-22 — CW
