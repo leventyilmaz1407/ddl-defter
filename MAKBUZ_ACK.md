@@ -68,3 +68,7 @@ TASIMA CCE-0721-A · CCE floor koridora indi · b1566e9 · 2026-07-21 — CW
 TASIMA MACH2-0721-B · Mach duzeltme+muhur koridora indi · b1566e9 · 2026-07-21 — CW
 
 TASIMA MACH2-0722-A · cevher haritasi koridora indi · 18870ad · 2026-07-22 — CW
+
+TASIMA MACH3-0722-A · Haluk-mektubu koridora indi · 5dfcde1 · 2026-07-22 — CW
+
+TASIMA MACH3-0722-B · 4CEO-devir-notu koridora indi · 5dfcde1 · 2026-07-22 — CW
