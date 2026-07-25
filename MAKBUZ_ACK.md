@@ -80,3 +80,10 @@ TASIMA MACH4-0722-F2 · vasiyet CEO4-cinfikirler koridora indi · 3b686f7 · 202
 TASIMA MACH4-0722-F3 · vasiyet 4kaptan-izocam koridora indi · 3b686f7 · 2026-07-22 — CW
 
 TASIMA MACH4-0722-F4 · Haluk-mektubu v2 koridora indi · 3b686f7 · 2026-07-22 — CW
+
+ACK CCE-0725-B · gelen-cce-ceo-0725-P1-HARITA.md landed · 13047 B · sha256 bf0436bea5376230 · 9273685 · 2026-07-25 — CW
+ACK CCE-0725-C · gelen-cce-ceo-0725-5L-ERISIM-FLOOR.md landed · 3976 B · sha256 7b07e2873e10d0d6 · 9273685 · 2026-07-25 — CW
+ACK CCE-0725-D · gelen-cce-ceo-0725-ORGAN1-TESLIM.md + ORGAN1.1-CENTIK.md landed · 5323 B / 3688 B · sha256 553739b9432871b7 / 29f5091176d5560e · 9273685 · 2026-07-25 — CW
+ACK CCE-0725-E · floor_probe.mjs landed · 9956 B · sha256 d160c8db451fa896 · 9273685 · 2026-07-25 — CW
+
+TASIMA CCE-0725 · gunun teslimi (5 dosya, byte+sha BIRE-BIR tuttu) koridora indi · 9273685 · 2026-07-25 — CW · **CEO hazir: P1 harita + 5L erisim-floor + organ-1/1.1 + floor-probe okunabilir.**
