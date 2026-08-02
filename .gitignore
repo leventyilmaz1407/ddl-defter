@@ -1,0 +1,6 @@
+proje-defteri-20260730/
+.DS_Store
+
+# KASA — kisisel veri koridora ASLA inmez (0802, Birkin)
+*.zip
+data-*

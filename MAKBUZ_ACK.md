@@ -87,3 +87,9 @@ ACK CCE-0725-D · gelen-cce-ceo-0725-ORGAN1-TESLIM.md + ORGAN1.1-CENTIK.md lande
 ACK CCE-0725-E · floor_probe.mjs landed · 9956 B · sha256 d160c8db451fa896 · 9273685 · 2026-07-25 — CW
 
 TASIMA CCE-0725 · gunun teslimi (5 dosya, byte+sha BIRE-BIR tuttu) koridora indi · 9273685 · 2026-07-25 — CW · **CEO hazir: P1 harita + 5L erisim-floor + organ-1/1.1 + floor-probe okunabilir.**
+
+ACK MACH6-0802-A · IMECE_MEKTUBU_0802_CRESCENDO.md landed · 15006 B · sha256 7ab3c9b3ff387c0f · 432ebe5 · 2026-08-02 — Birkin (006)
+ACK MACH6-0802-B · TEMIZLIK_0802_BAYAT_HUKUMLER.md landed · 7802 B · sha256 4000c43bb86bb8be · 432ebe5 · 2026-08-02 — Birkin (006)
+ACK MACH6-0802-C · KURTARMA_CW_0801_EFG.md landed · 12054 B · sha256 321cd5f2038d685f · 432ebe5 · 2026-08-02 — Birkin (006)
+
+TASIMA MACH6-0802 · gecenin usul kayitlari koridora indi (imece mektubu + bayat-hukumler cetveli + CW kurtarma nushasi) · 2026-08-02 — Birkin, Founder eliyle
