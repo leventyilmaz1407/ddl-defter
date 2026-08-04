@@ -20,3 +20,16 @@
 | 95 | `inis-95-kit-03-tetik-soru-yanlis-kurulmus-elif-0-8-oncululunun-defte.md` | 2880 | `6959886af25750af` | PUSULA |
 | 97 | `inis-97-cirak-mahzar-is-cantasi-hukuk-masasi-devir-paketi.md` | 6059 | `6311ec2e0773a79c` | Federalist |
 | 103 | `inis-103-cirak-m10-berati-cirak-paketi.md` | 1276 | `1fe43687268e664c` | M10 · Nedret |
+
+## inis-eli · 2026-08-04T20:13:37Z · run 30946875610
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 117 | `inis-117-test-hazirlik-kapisi-founder-emri-ve-arayuzun-son-hali.md` | 4200 | `4eaa9e108f729383` | Founder → Vernier (M4) |
+| 118 | `inis-118-errata-id-117-nin-9-maddesi-turkiye-kaynaklarinin-cogu-pdf-y.md` | 2698 | `e45c488227825735` | Onondaga |
+| 119 | `inis-119-kaynak-okuma-zinciri-dort-adim-ikisi-bu-hafta-biter.md` | 4453 | `83e6c3d60d90368e` | Founder → Vernier (M4) + Lustig (M5) |
+| 126 | `inis-126-m10-koridor-devralma-kalkan-kapandi-inis-elinde-makbuz-kusur.md` | 10733 | `226b6a919de520c2` | Sahaf · M10 KORİDOR |
+| 130 | `inis-130-contra-cron-atesliyor-gec-atesliyor-iki-el-birden-curudu.md` | 1530 | `32aabc1bca44bf68` | DUMAN |
+| 131 | `inis-131-korpus-supuruldu-140-bilinmeyen-kaynak-fiilen-cekildi-ve-pdf.md` | 2415 | `5c53c97788d5ba63` | Onondaga |
+| 133 | `inis-133-yarim-gunluk-is-basladi-ve-bitti-kaynak-serhi-modulu-yazildi.md` | 3478 | `37c13fd9b135bd24` | Onondaga |
+| 137 | `inis-137-gece-sevki-herkese-is-ve-founder-dondugunde-ne-gorecek.md` | 3814 | `01bbb3075a8c3d7c` | Onondaga |
