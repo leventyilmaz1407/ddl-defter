@@ -1,0 +1,14 @@
+# KIT-03 TETIK — soru yanlis kurulmus; "Elif 0/8" oncululunun defterde karsiligi YOK
+
+`masa:` **PUSULA** · `an:` 2026-08-04T18:10:31.313587+00:00 · `damga:` contra
+`kaynak:` 5 kit L0 (Drive) elle okundu + public.test_turn/test_session/test_form SQL sayimi
+`ev_defteri.id:` 95
+
+---
+
+OLCUM (a) kagit, 5 kit x 8 gorev = 40 tur, tetik listesi 22 ibare (5 kitte ayni): kitin testcinin agzina koydugu BIREBIR cumlede tetik tasiyan tur -- KIT-01 5/8 (T1-T4 dogrula, T6 kaynak goster) · KIT-02 0/8 · KIT-03 0/8 · KIT-04 2/8 (T2 arastir, T3 dogrula) · KIT-05 0/8. Toplam 7/40. Bes kitin UCU 0/8 -> KIT-03 istisna degil, cogunluk; sapan kit KIT-01. Desen islevsel: tetik, olcum kolun acik olmasini GEREKTIRDIGI yerde var.
+OLCUM (b) defter, L0 SQL 2026-08-04 17:0xZ: KIT-03 etiketli tur 0/152 · testci "Elif" 0 (2 oturumun ikisi de tester_id=T0, kit_id KIT-0 ve KIT-TEST) · question_id yalniz [EK] 151 ve S0.1 1 · session_id NULL 147/152 · test_form 0 satir · kaynak kolu acilan 48/151 = %31,8 (kol saglam).
+HUKUM: "Elif in sekiz turunun sekizinde de kaynaga uzanilmadi (0/8)" oncululunun PAYDASI YOK -> contra. KIT-03 defterle hic temas etmemis; olcum yuzeyi 0/8 degil 0/0. Tetik eklemek yanlis tamir olurdu ve gereksizdir: KIT-03 uretim ozelligi olcer (denge, baski altinda durus), getirme ozelligi degil; kol acilirsa T5 "gerekceyle mi duruyor" sorusu "kaynak buldu mu"ya doner, o zaten KIT-01 in isi. Ustanin TASARIM yargisi dogru (verified), ENDISESININ DAYANAGI degil (contra).
+GERCEK KUSUR IKI SATIR: (1) kablo -- question_id kit-turu kimligini tasimiyor, session_id 147 turda bos, test_form bos; tetik tartismasi bu kablo baglanmadan anlamsiz [M4/FIDAN in isi, benim degil]. (2) KIT-03 un eksik satiri tetik degil serh: sinir 8 e gore motor "kaynaklar bunu dogruluyor" cumlesini sayfa okumadan kurar; en olasi yer tartismali konudur, yani KIT-03; ama §5 in "Kaynak gosterdi mi?" hanesi KOLU olcer, IDDIAYI degil. Oneri, tek satir, olcumu degistirmez: §4 kutusuna -> "Motor kaynaklar bunu dogruluyor derse -- kol kapaliydi. O cumleyi aynen yazin."
+ACIK (open): istemci eslestiricisi okunamadi (https-parrhesia.one kimlik istedi, parrhesia.one 525) -> KIT-01 T5 "bu ALINTI bu sayfada mi" alt-dizi eslestirmede istemeden atesler ve T5 tasarimini bozar; KIT-04 T7 "Hangi lambadasin? Hangi modelsin?" sinir 13 "her gruptan bir" mi "birlesimden iki" mi -- ikincisi ise kitin KENDI metninden karsi ornek dogar; "113 hazir soru" nun paydasi bes kitte gorunmuyor (saydigim birebir cumle ~21) -> open, contra degil.
+CAGRI-EMIR CELISKILERI (contra): /mnt/project/ yok · koridor HEAD de claude/ dizini yok · KIT-03_celiski_FINAL.docx yok (kanonik nusha Google Doc KIT-03_celiski, 19948 B) · cagri §6 "emir §7" diyor, emirde §7 yok (§0-§6) · makbuz kurali §4③ te, §6 da degil · emir §5 e gore M2 ye bagli goz HAFIF paket yazar (2·4·6. bolumler), alti bolum degil.

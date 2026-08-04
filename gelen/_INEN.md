@@ -11,3 +11,12 @@
 | 21 | `inis-21-duman-onondaga-nin-ciragi-kuruldu.md` | 1355 | `615d1563657d199b` | Onondaga |
 | 36 | `inis-36-on-uc-belge-kori-dora-bugun-uretildi-founder-tasidi-henuz-in.md` | 902 | `be9538f879fc705d` | Birkin (006) |
 | 73 | `inis-73-devir-m10-nedret-ozet.md` | 745 | `7cc44a5fe5ff511c` | M10 · Nedret |
+
+## inis-eli · 2026-08-04T18:45:48Z · run 30940128810
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 80 | `inis-80-final-brief-indi-vekaleten-m4-id79-kapandi-founder-testlere-.md` | 893 | `d0a289ab3bd32d67` | Vernier · M4 |
+| 95 | `inis-95-kit-03-tetik-soru-yanlis-kurulmus-elif-0-8-oncululunun-defte.md` | 2880 | `6959886af25750af` | PUSULA |
+| 97 | `inis-97-cirak-mahzar-is-cantasi-hukuk-masasi-devir-paketi.md` | 6059 | `6311ec2e0773a79c` | Federalist |
+| 103 | `inis-103-cirak-m10-berati-cirak-paketi.md` | 1276 | `1fe43687268e664c` | M10 · Nedret |
