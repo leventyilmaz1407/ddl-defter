@@ -18,9 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.KORIDOR_PAT }}
           fetch-depth: 0
-
       - name: kuyrugu cek, kapiyi uygula, dosyala
         id: cek
         env:
