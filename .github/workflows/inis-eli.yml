@@ -1,0 +1,163 @@
+name: inis-eli
+
+on:
+  schedule:
+    - cron: "7,27,47 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: inis-eli
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  indir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.KORIDOR_PAT }}
+          fetch-depth: 0
+
+      - name: kuyrugu cek, kapiyi uygula, dosyala
+        id: cek
+        env:
+          SB_URL: https://rgnuvspudrwmfrdrefza.supabase.co
+          SB_KEY: sb_publishable_JNCVDSNJqm1UIo01Jre_Ng_KwXKUHGJ
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, re, sys, hashlib, pathlib, urllib.request, urllib.error
+
+          AZAMI_DOSYA  = 40
+          AZAMI_BAYT   = 512 * 1024
+          AZAMI_TOPLAM = 4 * 1024 * 1024
+
+          SIR = [
+              re.compile(r"gh[pousr]_[A-Za-z0-9]{16,}"),
+              re.compile(r"github_pat_[A-Za-z0-9_]{20,}"),
+              re.compile(r"\bsk-[A-Za-z0-9]{16,}"),
+              re.compile(r"eyJ[A-Za-z0-9_\-]{10,}\.[A-Za-z0-9_\-]{10,}\.[A-Za-z0-9_\-]{10,}"),
+              re.compile(r"-----BEGIN [A-Z ]*PRIVATE KEY-----"),
+              re.compile(r"service_role"),
+              re.compile(r"(?i)\b(password|passwd|secret|api[_-]?key)\s*[:=]\s*\S{8,}"),
+          ]
+
+          def slug(s):
+              s = s.lower()
+              for a, b in zip("çğıöşüâîû", "cgiosuaiu"):
+                  s = s.replace(a, b)
+              s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+              return (s[:60] or "adsiz")
+
+          url = (os.environ["SB_URL"] +
+                 "/rest/v1/ev_defteri?tur=eq.inis&durum=eq.acik"
+                 "&select=id,an,masa,baslik,govde,damga,kaynak&order=id.asc")
+          key = os.environ["SB_KEY"]
+          req = urllib.request.Request(url, headers={"apikey": key,
+                                                     "Authorization": "Bearer " + key})
+          try:
+              rows = json.load(urllib.request.urlopen(req, timeout=30))
+          except urllib.error.HTTPError as e:
+              print("ALET ARIZASI · HTTP %s · %s" % (e.code, e.read()[:300]))
+              sys.exit(2)
+          except Exception as e:
+              print("ALET ARIZASI · %s" % e)
+              sys.exit(2)
+
+          print("kuyrukta %d satir" % len(rows))
+          if not rows:
+              pathlib.Path("/tmp/inen").write_text("")
+              sys.exit(0)
+
+          if len(rows) > AZAMI_DOSYA:
+              print("KAPI: %d satir > %d — yalniz ilk %d alindi, kalani sonraki tura"
+                    % (len(rows), AZAMI_DOSYA, AZAMI_DOSYA))
+              rows = rows[:AZAMI_DOSYA]
+
+          pathlib.Path("gelen").mkdir(exist_ok=True)
+          inen, toplam = [], 0
+
+          for r in rows:
+              govde = r.get("govde") or ""
+              metin = (
+                  "# %s\n\n"
+                  "`masa:` **%s** · `an:` %s · `damga:` %s\n"
+                  "`kaynak:` %s\n"
+                  "`ev_defteri.id:` %s\n\n---\n\n%s\n"
+                  % (r.get("baslik", "adsiz"), r.get("masa", "?"), r.get("an", "?"),
+                     r.get("damga") or "—", r.get("kaynak") or "—", r["id"], govde)
+              )
+              ham = metin.encode("utf-8")
+
+              red = None
+              if len(ham) > AZAMI_BAYT:
+                  red = "cok buyuk (%d B > %d)" % (len(ham), AZAMI_BAYT)
+              elif toplam + len(ham) > AZAMI_TOPLAM:
+                  red = "toplam tavan asildi"
+              else:
+                  for d in SIR:
+                      if d.search(metin):
+                          red = "sir kokusu: %s" % d.pattern[:28]
+                          break
+
+              if red:
+                  print("RED · id=%s · %s" % (r["id"], red))
+                  continue
+
+              yol = pathlib.Path("gelen") / ("inis-%s-%s.md" % (r["id"], slug(r.get("baslik", ""))))
+              if not str(yol).startswith("gelen/") or yol.suffix != ".md":
+                  print("RED · id=%s · kapsam disi: %s" % (r["id"], yol))
+                  continue
+
+              # IDEMPOTANS — ayni ad, ayni bayt varsa hic dokunma.
+              # Bu olmadan: satir 'acik' kaldigi icin her tur yeniden iniyor, .md ayni
+              # oldugu icin diff cikmiyor AMA _INEN.md buyuyor -> 20 dakikada bir commit,
+              # sonsuza kadar. (Yakalayan: Claude Code, 4 Agu 16:45Z. Kusur Onondaga'nin.)
+              if yol.exists() and yol.read_bytes() == ham:
+                  print("ATLANDI · id=%s · zaten inmis, bayt ayni" % r["id"])
+                  continue
+
+              yol.write_bytes(ham)
+              geri = yol.read_bytes()
+              sha = hashlib.sha256(geri).hexdigest()[:16]
+              if len(geri) != len(ham):
+                  print("RED · id=%s · diskten geri okuma tutmadi" % r["id"])
+                  yol.unlink()
+                  continue
+
+              toplam += len(ham)
+              inen.append("%s\t%s\t%d\t%s\t%s" % (r["id"], yol.name, len(ham), sha, r.get("masa", "?")))
+              print("INDI · id=%s · %s · %d B · %s" % (r["id"], yol.name, len(ham), sha))
+
+          pathlib.Path("/tmp/inen").write_text("\n".join(inen))
+          print("toplam inen: %d dosya, %d bayt" % (len(inen), toplam))
+          PYEOF
+
+      - name: makbuz yaz, isle, it
+        run: |
+          if [ ! -s /tmp/inen ]; then
+            echo "inen yok — koridora dokunulmadi."
+            exit 0
+          fi
+          {
+            echo ""
+            echo "## inis-eli · $(date -u '+%Y-%m-%dT%H:%M:%SZ') · run ${GITHUB_RUN_ID}"
+            echo ""
+            echo "| ev_defteri.id | dosya | bayt | sha16 | masa |"
+            echo "|---|---|---|---|---|"
+            while IFS=$'\t' read -r id ad bayt sha masa; do
+              [ -n "$id" ] && echo "| $id | \`$ad\` | $bayt | \`$sha\` | $masa |"
+            done < /tmp/inen
+          } >> gelen/_INEN.md
+
+          git config user.name  "inis-eli"
+          git config user.email "inis-eli@users.noreply.github.com"
+          git add gelen/
+          git diff --cached --quiet && { echo "degisiklik yok"; exit 0; }
+          git commit -m "inis-eli: $(wc -l < /tmp/inen) belge indi (run ${GITHUB_RUN_ID})"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "== koridor yeni basi:"
+          git rev-parse --short HEAD
