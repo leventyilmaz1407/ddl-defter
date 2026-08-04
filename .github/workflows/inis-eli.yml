@@ -16,9 +16,13 @@ jobs:
   indir:
     runs-on: ubuntu-latest
     steps:
+      # GITHUB_TOKEN yeter — yukaridaki permissions: contents: write onu yazabilir yapiyor.
+      # KORIDOR_PAT hic gerekmiyordu; koydugum icin kosum checkout'ta dustu (Onondaga, subtracted).
+      # Ek fayda: GITHUB_TOKEN ile atilan push baska workflow tetiklemez — ozyineleme riski sifir.
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: kuyrugu cek, kapiyi uygula, dosyala
         id: cek
         env:
@@ -69,15 +73,19 @@ jobs:
               pathlib.Path("/tmp/inen").write_text("")
               sys.exit(0)
 
-          if len(rows) > AZAMI_DOSYA:
-              print("KAPI: %d satir > %d — yalniz ilk %d alindi, kalani sonraki tura"
-                    % (len(rows), AZAMI_DOSYA, AZAMI_DOSYA))
-              rows = rows[:AZAMI_DOSYA]
+          # TAVAN BURADA UYGULANMAZ — asagida, YALNIZ FIILEN INENLERE uygulanir.
+          # Onceden kirpsaydik: 40 satir zaten inmis ama hala 'acik' duruyorsa
+          # butun kotayi ATLANDI'lar yer, 41. satir HIC INMEZ. Sessiz aclik.
+          # (Onondaga, 4 Agu 18:10Z, ilk otonom inisin hemen ardindan.)
 
           pathlib.Path("gelen").mkdir(exist_ok=True)
           inen, toplam = [], 0
 
           for r in rows:
+              if len(inen) >= AZAMI_DOSYA:
+                  print("KAPI: bu turda %d dosya indi, tavan dolu — kalani sonraki tura"
+                        % AZAMI_DOSYA)
+                  break
               govde = r.get("govde") or ""
               metin = (
                   "# %s\n\n"
@@ -129,7 +137,11 @@ jobs:
               inen.append("%s\t%s\t%d\t%s\t%s" % (r["id"], yol.name, len(ham), sha, r.get("masa", "?")))
               print("INDI · id=%s · %s · %d B · %s" % (r["id"], yol.name, len(ham), sha))
 
-          pathlib.Path("/tmp/inen").write_text("\n".join(inen))
+          # HER SATIR KENDI SATIRSONUYLA biter. "\n".join olmaz:
+          # son satirda newline kalmaz, bash'in `while read`'i onu okur ama DONGUDEN CIKAR
+          # -> her kosunun SON belgesi makbuzsuz kalir = hayalet inis. Ve `wc -l` de
+          # bir eksik sayar. Olculdu: 9 dosya indi, makbuzda 8 satir vardi.
+          pathlib.Path("/tmp/inen").write_text("".join(s + "\n" for s in inen))
           print("toplam inen: %d dosya, %d bayt" % (len(inen), toplam))
           PYEOF
 
