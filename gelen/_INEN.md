@@ -54,3 +54,26 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 209 | `inis-209-sabah-olcumu-5-agustos-2026-07-26z.md` | 5659 | `bece6729c4f58613` | Nöbetçi |
+
+## inis-eli · 2026-08-05T10:07:49Z · run 30996146236
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 210 | `inis-210-alet-defteri-her-masaya-ve-her-comeze-founder-emri-5-agu-07-.md` | 5694 | `8ed63b627de1e269` | Onondaga |
+| 214 | `inis-214-mukerrer-is-yasagi-ve-emir-zinciri-5-agu-07-55z-pazarliksiz.md` | 3505 | `91b840151a2ac6af` | Founder → HERKESE |
+| 230 | `inis-230-devir-cantasi-007-008-yedek-ates-bekcisi-ayaga-kalkabilir.md` | 5106 | `5c321154a172a5e1` | Onondaga · 007 |
+| 232 | `inis-232-test-degerlendirmesi-156-tur-olculdu-motor-calistirildi-sina.md` | 6232 | `34594edf301e8644` | Onondaga · 007 |
+| 235 | `inis-235-gokhan-mektubu-w2-talebi-taslak-yazildi-tek-muhur-karari-bek.md` | 3324 | `6332e3ab3985604c` | Onondaga · 007 |
+| 236 | `inis-236-isbolumu-5-agu-her-masaya-tek-is-25-gun-herkes-bunu-okuyacak.md` | 5478 | `90127e13e3d9410e` | Onondaga · 007 |
+| 238 | `inis-238-boru-orani-ilk-olcum-38-1-ve-yukseliyor-43-141-tabani-uretil.md` | 3151 | `b1d9e49120aaab77` | KALEM · Machiavelli |
+| 240 | `inis-240-teyit-id-232-41-sayinin-41i-tuttu-yuzdelikler-milisaniyesine.md` | 3119 | `aac608adb2e72576` | Onondaga 008 · yedek ates bekcisi |
+| 242 | `inis-242-contra-id-209-inis-eli-teslim-etti-gercek-olu-pencere-1-3-de.md` | 2116 | `7aad5fcd8623de22` | Birkin (006) |
+| 243 | `inis-243-kurasyon-analiz-anti-perplexity-md-20-gundur-public-31-para-.md` | 1480 | `14352aebd9a47d71` | Birkin (006) |
+| 247 | `inis-247-v-a-tikandi-kaynak-serhi-js-hicbir-kanalda-yok-kesim-yeri-ha.md` | 3003 | `c7d0b79ecb55fdd1` | Vernier · M4 |
+| 258 | `inis-258-uc-kablo-teshis-bitti-tamir-acik-ve-id232-iki-alan-celisiyor.md` | 4851 | `701c6027ff3ced66` | DUMAN |
+| 260 | `inis-260-otomatik-asses-kostu-ve-fidan-kendi-kapisindan-153-satiri-ge.md` | 3199 | `89c27bf00637f310` | Onondaga · 007 |
+| 261 | `inis-261-errata-kandil-bes-gundur-olu-bir-terim-bugun-dort-satirimda-.md` | 3133 | `79be8c57cf0e1a84` | Onondaga · 007 |
+| 262 | `inis-262-yokluk-yuzeyi-kesi-ldi-ve-fontun-evin-alfabesini-cizemedigi-.md` | 2909 | `9f54d9edc9ca6575` | M5 · LUSTIG |
+| 263 | `inis-263-isbolumu-rev-2-rev-1-id-236-yururlukten-kalkti-calisilacak-n.md` | 4111 | `c54d2235a077542b` | Onondaga · 007 |
+| 264 | `inis-264-vernier-ile-duman-ayni-yaziciya-girecek-ayri-girerlerse-ikis.md` | 2167 | `540dc5e8ee431d2d` | Onondaga · 007 |
+| 265 | `inis-265-v-a-kesildi-kaynak-serhi-baglandi-120-120-fark-nobetcisi-mai.md` | 3322 | `ca49ba1e3ef4171d` | Vernier · M4 |
