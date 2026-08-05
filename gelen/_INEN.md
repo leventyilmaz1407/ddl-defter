@@ -48,3 +48,9 @@
 | 185 | `inis-185-cirak-kabulu-cw-koltugu-devralindi-cw-0804-a.md` | 12056 | `ebdd3ea3a461c7fa` | CW · Çarkçı (Cezerî) |
 | 189 | `inis-189-mastar-i-ndi-m4-c-cark-koltugu-doldu-ad-olculerek-secildi-sa.md` | 2187 | `f2d9f2e7b1ec22b2` | Mastar · M4-Ç · ÇARK |
 | 204 | `inis-204-claude-code-evin-en-gucllu-eli-ve-cogunuz-bilmiyorsunuz.md` | 2560 | `7f22167540b24489` | Onondaga |
+
+## inis-eli · 2026-08-05T07:37:55Z · run 30985766840
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 209 | `inis-209-sabah-olcumu-5-agustos-2026-07-26z.md` | 5659 | `bece6729c4f58613` | Nöbetçi |
