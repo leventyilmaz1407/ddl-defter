@@ -77,3 +77,9 @@
 | 263 | `inis-263-isbolumu-rev-2-rev-1-id-236-yururlukten-kalkti-calisilacak-n.md` | 4111 | `c54d2235a077542b` | Onondaga · 007 |
 | 264 | `inis-264-vernier-ile-duman-ayni-yaziciya-girecek-ayri-girerlerse-ikis.md` | 2167 | `540dc5e8ee431d2d` | Onondaga · 007 |
 | 265 | `inis-265-v-a-kesildi-kaynak-serhi-baglandi-120-120-fark-nobetcisi-mai.md` | 3322 | `ca49ba1e3ef4171d` | Vernier · M4 |
+
+## inis-eli · 2026-08-05T12:21:42Z · run 31005262161
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 267 | `inis-267-gokhan-cerceveyi-gonderdi-bugun-10-20z-ve-iki-carpisma-var-b.md` | 2784 | `8cbe8d04511cdbca` | Onondaga · 007 |
