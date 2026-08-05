@@ -2,21 +2,21 @@ name: inis-eli
 
 on:
   # UC TETIK, cunku BIRI YETMIYOR.
-  # Olculdu 4 Agu: schedule bes pencere ust uste ATESLEMEDI (17:47/18:07/18:27Z ve oncesi);
-  # iki kosunun ikisi de elle baslatildi. GitHub'in zamanlayicisi "best effort"tur
-  # ve yeni eklenen bir cron sik sik gec baslar. Tek tetige guvenmek, gorunmez
-  # bir tek-nokta-arizasidir. (Yakalayan: DUMAN, 4 Agu 18:35Z.)
+  # Olculdu 5 Agu: schedule CALISIYOR ama AGIR KISILIYOR — cron saatte 3 diyor,
+  # gerceklesen ~saatte 1 (21:44 · 22:46 · 23:46 · 01:09 · 04:37Z), arada 3,5 saat bosluk.
+  # push tetigi bu gecikmeyi anlamsizlastirir: koridora her dokunusta kuyruk bosalir.
   schedule:
     - cron: "7,27,47 * * * *"
   workflow_dispatch:
-  # push: koridora her dokunusta kuyruk bosaltilir. Ozyineleme YOK —
-  # GITHUB_TOKEN ile atilan push baska workflow tetiklemez (GitHub kurali).
-  # Yani inis-eli kendi commit'iyle kendini tetiklemez.
+  # Ozyineleme YOK — GITHUB_TOKEN ile atilan push baska workflow tetiklemez (GitHub kurali).
   push:
     branches: [main]
 
 concurrency:
   group: inis-eli
+  # false KALIYOR — 5 Agu''da "asili kosu var" diye hipotez kurup true onerdim,
+  # Actions sayfasi curuttu: son bes kosunun BESI de yesil ve zamanli. Asili kosu yok.
+  # Olculmeden degistirilen ayar, olculmeden yazilan sayi kadar tehlikelidir.
   cancel-in-progress: false
 
 permissions:
@@ -54,11 +54,17 @@ jobs:
               # "service_role" CIPLAK HALDE YASAK DEGIL — bu ev o kelimeyi surekli
               # TARTISIYOR (M-7 god-key kalemi tam olarak bu). Ciplak yasaklamak,
               # kendi guvenlik tartismamizin koridora inmesini engellerdi.
-              # Yakalanmasi gereken DEGER'dir, kelime degil; gercek service_role
-              # anahtari zaten bir JWT'dir ve ustteki eyJ deseni onu yakalar.
-              # (Yakalayan: DUMAN, 4 Agu 18:35Z — kapi 2 mesru belgede yanlis-pozitif
-              #  uretiyordu. Kusur Onondaga'nin.)
+              # (Yakalayan: DUMAN, 4 Agu 18:35Z. Kusur Onondaga'nin.)
               re.compile(r"service_role\s*[:=]\s*\S{20,}"),
+              # rev.6 — DUMAN 5 Agu 06:39Z: "sb_secret_ kapidan GECIYOR; bu evin
+              # KENDI anahtar formati". Kapi baskasinin anahtarini yakaliyor,
+              # kendi evininkini yakalamiyordu. Bir guvenlik kapisinin en kotu korlugu.
+              re.compile(r"sb_secret_[A-Za-z0-9_\-]{16,}"),   # Supabase gizli anahtar
+              re.compile(r"sbp_[a-f0-9]{40,}"),               # Supabase kisisel token
+              re.compile(r"\b(AKIA|ASIA)[A-Z0-9]{16}\b"),     # AWS
+              re.compile(r"xox[baprs]-[A-Za-z0-9-]{10,}"),    # Slack
+              re.compile(r"AIza[A-Za-z0-9_\-]{30,}"),         # Google API
+              re.compile(r"\bglpat-[A-Za-z0-9_\-]{16,}"),     # GitLab
               re.compile(r"(?i)\b(password|passwd|secret|api[_-]?key)\s*[:=]\s*\S{8,}"),
           ]
 
@@ -92,7 +98,6 @@ jobs:
           # TAVAN BURADA UYGULANMAZ — asagida, YALNIZ FIILEN INENLERE uygulanir.
           # Onceden kirpsaydik: 40 satir zaten inmis ama hala 'acik' duruyorsa
           # butun kotayi ATLANDI'lar yer, 41. satir HIC INMEZ. Sessiz aclik.
-          # (Onondaga, 4 Agu 18:10Z, ilk otonom inisin hemen ardindan.)
 
           pathlib.Path("gelen").mkdir(exist_ok=True)
           inen, toplam = [], 0
@@ -136,7 +141,7 @@ jobs:
               # IDEMPOTANS — ayni ad, ayni bayt varsa hic dokunma.
               # Bu olmadan: satir 'acik' kaldigi icin her tur yeniden iniyor, .md ayni
               # oldugu icin diff cikmiyor AMA _INEN.md buyuyor -> 20 dakikada bir commit,
-              # sonsuza kadar. (Yakalayan: Claude Code, 4 Agu 16:45Z. Kusur Onondaga'nin.)
+              # sonsuza kadar. (Yakalayan: Claude Code, 4 Agu 16:45Z.)
               if yol.exists() and yol.read_bytes() == ham:
                   print("ATLANDI · id=%s · zaten inmis, bayt ayni" % r["id"])
                   continue
@@ -153,10 +158,9 @@ jobs:
               inen.append("%s\t%s\t%d\t%s\t%s" % (r["id"], yol.name, len(ham), sha, r.get("masa", "?")))
               print("INDI · id=%s · %s · %d B · %s" % (r["id"], yol.name, len(ham), sha))
 
-          # HER SATIR KENDI SATIRSONUYLA biter. "\n".join olmaz:
-          # son satirda newline kalmaz, bash'in `while read`'i onu okur ama DONGUDEN CIKAR
-          # -> her kosunun SON belgesi makbuzsuz kalir = hayalet inis. Ve `wc -l` de
-          # bir eksik sayar. Olculdu: 9 dosya indi, makbuzda 8 satir vardi.
+          # HER SATIR KENDI SATIRSONUYLA biter. "\n".join olmaz: son satirda newline
+          # kalmaz, bash'in `while read`'i onu okur ama DONGUDEN CIKAR -> her kosunun
+          # SON belgesi makbuzsuz kalir = hayalet inis. Olculdu: 9 indi, makbuzda 8 vardi.
           pathlib.Path("/tmp/inen").write_text("".join(s + "\n" for s in inen))
           print("toplam inen: %d dosya, %d bayt" % (len(inen), toplam))
           PYEOF
