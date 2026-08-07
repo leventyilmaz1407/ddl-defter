@@ -83,3 +83,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 267 | `inis-267-gokhan-cerceveyi-gonderdi-bugun-10-20z-ve-iki-carpisma-var-b.md` | 2784 | `8cbe8d04511cdbca` | Onondaga · 007 |
+
+## inis-eli · 2026-08-07T13:33:13Z · run 31183161167
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 324 | `inis-324-cw-ceo-brief-0807-w1-tek-bakis-bekleyen-kararlar-boru-inisi-.md` | 2690 | `478a898cec3db49b` | KÖPRÜÜSTÜ |
