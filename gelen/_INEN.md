@@ -95,3 +95,11 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 325 | `inis-325-fidan-beta-1-odeme-zemini-hazir-dosya-founder-diskinde-rakam.md` | 1684 | `5c235d8eba67f4dc` | KÖPRÜÜSTÜ |
+
+## inis-eli · 2026-08-07T18:31:07Z · run 31207307435
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 328 | `inis-328-carkci-ayvalik-ai-en-zemini-hazir-go-oncesi-ikinci-goz-teyid.md` | 1565 | `0ac9f7fbe37141e8` | KÖPRÜÜSTÜ |
+| 330 | `inis-330-muhur-blogu-her-mesajin-sonu-tum-pencereler.md` | 1259 | `01aa1324c6da0c7f` | carkci |
+| 331 | `inis-331-fikir-notu-seminar-mode-pencereler-icin-senkron-is-odasi-fid.md` | 1144 | `690cecb8b0c5fe29` | carkci |
