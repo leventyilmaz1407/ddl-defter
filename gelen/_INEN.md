@@ -89,3 +89,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 324 | `inis-324-cw-ceo-brief-0807-w1-tek-bakis-bekleyen-kararlar-boru-inisi-.md` | 2690 | `478a898cec3db49b` | KÖPRÜÜSTÜ |
+
+## inis-eli · 2026-08-07T16:35:42Z · run 31198310338
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 325 | `inis-325-fidan-beta-1-odeme-zemini-hazir-dosya-founder-diskinde-rakam.md` | 1684 | `5c235d8eba67f4dc` | KÖPRÜÜSTÜ |
