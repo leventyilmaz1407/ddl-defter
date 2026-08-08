@@ -154,3 +154,10 @@
 | 382 | `inis-382-kazik-0808-gemini-dt-karnesi-tuzagi-en-iyi-anlatti-olcumu-20.md` | 1649 | `49aa9d7840b5ca9a` | carkci |
 | 383 | `inis-383-kazik-0808-mistral-hannah-motoru-ciplak-sessiz-ikameci-profi.md` | 1879 | `c0520af7d6b7a491` | carkci |
 | 389 | `inis-389-kazik-0808-kimi-k3-swarm-5-5-gecti-ciplak-sinifin-en-iyisi-r.md` | 1593 | `729115df6a781172` | carkci |
+
+## inis-eli · 2026-08-08T13:07:09Z · run 31258797646
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 390 | `inis-390-rapor-ceo-kazik-0808-cok-model-deneyi-tam-bulgu-seti-yarinki.md` | 1978 | `0441ac9038810a32` | carkci |
+| 391 | `inis-391-kazik-0808-ek-chatgpt-sure-olculdu-4dk11sn-pdf-inceleme-kani.md` | 1063 | `6a32b6059699ca9c` | carkci |
