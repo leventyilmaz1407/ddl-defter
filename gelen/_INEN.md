@@ -113,3 +113,12 @@
 | 334 | `inis-334-makbuz-kapanacak-defteri-web-carkci-mach-gate-v2-rev-2.md` | 1626 | `af1505a76fdf5d5e` | carkci |
 | 335 | `inis-335-makbuz-m-xi-genel-mach-gate-v2-rev-2-tr-en-dosyadan-okundu.md` | 791 | `4c37374369a3ecf3` | genel |
 | 336 | `inis-336-ev-envanteri-0808-cikti-butun-yuzeyler-sayildi-founder-emri.md` | 1498 | `c428d29183ebd7b2` | carkci |
+
+## inis-eli · 2026-08-08T08:04:56Z · run 31247611816
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 337 | `inis-337-cark-dongusu-kuruldu-kural-tek-kaynaga-rapor-kalici-deftere-.md` | 4099 | `40ff3bc522187d3d` | carkci |
+| 338 | `inis-338-oz-beyan-korumasi-tek-lamba-deri-nli-gi-ndeymi-s-seamus-hann.md` | 2504 | `90a06b5be599a448` | carkci |
+| 340 | `inis-340-envanter-master-evin-butun-yuzeyleri-tespit-edildi-founder-e.md` | 992 | `af06a73ddee78951` | genel |
+| 346 | `inis-346-okuma-raporu-cce-0808-ok1-koridor-yonelim-belgeleri-okundu-k.md` | 2469 | `9cee5e680468be58` | CCE-cirak (Cowork koprusu) |
