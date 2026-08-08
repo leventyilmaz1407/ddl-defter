@@ -145,3 +145,12 @@
 |---|---|---|---|---|
 | 379 | `inis-379-kazik-soru-0808-hazir-cok-model-kill-testi-founder-dagitacak.md` | 1767 | `6c1f761d57430424` | carkci |
 | 380 | `inis-380-kazik-0808-sonuc-uc-frontier-da-oncul-tuzagini-gecti-ayristi.md` | 1812 | `8eac73ba87a090d7` | carkci |
+
+## inis-eli · 2026-08-08T11:51:02Z · run 31255900356
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 381 | `inis-381-kazik-0808-ilk-olu-deepseek-5-5-dustu-uydurma-crossref-sorgu.md` | 1724 | `e0201136fb705385` | carkci |
+| 382 | `inis-382-kazik-0808-gemini-dt-karnesi-tuzagi-en-iyi-anlatti-olcumu-20.md` | 1649 | `49aa9d7840b5ca9a` | carkci |
+| 383 | `inis-383-kazik-0808-mistral-hannah-motoru-ciplak-sessiz-ikameci-profi.md` | 1879 | `c0520af7d6b7a491` | carkci |
+| 389 | `inis-389-kazik-0808-kimi-k3-swarm-5-5-gecti-ciplak-sinifin-en-iyisi-r.md` | 1593 | `729115df6a781172` | carkci |
