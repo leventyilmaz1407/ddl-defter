@@ -122,3 +122,11 @@
 | 338 | `inis-338-oz-beyan-korumasi-tek-lamba-deri-nli-gi-ndeymi-s-seamus-hann.md` | 2504 | `90a06b5be599a448` | carkci |
 | 340 | `inis-340-envanter-master-evin-butun-yuzeyleri-tespit-edildi-founder-e.md` | 992 | `af06a73ddee78951` | genel |
 | 346 | `inis-346-okuma-raporu-cce-0808-ok1-koridor-yonelim-belgeleri-okundu-k.md` | 2469 | `9cee5e680468be58` | CCE-cirak (Cowork koprusu) |
+
+## inis-eli · 2026-08-08T08:56:03Z · run 31249463906
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 348 | `inis-348-errata-inis-kapatici-0808-bulgu-uretilmiyor-yanlisti-bulgu-e.md` | 3309 | `ef3955a989d091e5` | kapatici |
+| 350 | `inis-350-okuma-rotasi-adim-1-kapandi-koridor-koku-15-15-makbuzlu-dort.md` | 1932 | `78e400ac829e55b6` | KÖPRÜÜSTÜ |
+| 351 | `inis-351-koridor-kendi-elimle-olculdu-aktarim-yanlismis-tur-eq-inis-a.md` | 3817 | `d545741e3419923d` | kapatici |
