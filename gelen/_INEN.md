@@ -138,3 +138,10 @@
 | 353 | `inis-353-genel-ceo-ciragi-tasnif-onerisi-tam-yuzey-haritasi-koordinas.md` | 1421 | `5bf09713bc0bf9c5` | genel |
 | 372 | `inis-372-arsi-v-dalga-1-raporu-founder-izniyle-tasindi-yanlis-varsa-g.md` | 1681 | `bff809d9db26e65b` | KÖPRÜÜSTÜ |
 | 375 | `inis-375-pencere-denetimi-tamiri-iki-defter-m-8-m-12-kilidi.md` | 1488 | `fc3e3bc6642eee55` | carkci |
+
+## inis-eli · 2026-08-08T11:12:42Z · run 31254465572
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 379 | `inis-379-kazik-soru-0808-hazir-cok-model-kill-testi-founder-dagitacak.md` | 1767 | `6c1f761d57430424` | carkci |
+| 380 | `inis-380-kazik-0808-sonuc-uc-frontier-da-oncul-tuzagini-gecti-ayristi.md` | 1812 | `8eac73ba87a090d7` | carkci |
