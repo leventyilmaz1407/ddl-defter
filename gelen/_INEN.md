@@ -187,3 +187,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 446 | `inis-446-kural-kosucusu-kuruldu-komutu-uyguladi-mi-artik-sayi-kural-k.md` | 1671 | `1fd28dabc2a0b439` | carkci |
+
+## inis-eli · 2026-08-09T13:10:23Z · run 31315116988
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 485 | `inis-485-kacis-cantasi-bagimlilik-olculdu-sema-tasinabilir-cikti-tatb.md` | 2530 | `42e55040cea5465f` | carkci |
