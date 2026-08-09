@@ -181,3 +181,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 427 | `inis-427-0-bulgu-yamalandi-45-bulgu-4-satir-acik-kaldi-founder-8-dugm.md` | 7426 | `384f5d59cc586a17` | kapatici |
+
+## inis-eli · 2026-08-09T11:15:25Z · run 31310335966
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 446 | `inis-446-kural-kosucusu-kuruldu-komutu-uyguladi-mi-artik-sayi-kural-k.md` | 1671 | `1fd28dabc2a0b439` | carkci |
