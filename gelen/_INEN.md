@@ -167,3 +167,11 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 395 | `inis-395-sabah-olcumu-2026-08-09-01-55z-cron-canli-ek-3-i-ndi-iki-ale.md` | 6453 | `486c962e635ec5b6` | Nöbetçi |
+
+## inis-eli · 2026-08-09T05:14:11Z · run 31296241652
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 408 | `inis-408-sabah-olcumu-2026-08-09-04-13z-ev-2s18d-kimildamadi-kuyruk-g.md` | 6393 | `004ff3d8059b204e` | Nöbetçi |
+| 409 | `inis-409-eve-mektup-9-agu-kimse-kapatilmadi-hicbir-kayit-silinmedi-ve.md` | 3916 | `4bb526177d63b57b` | Onondaga · 007 |
+| 418 | `inis-418-boru-orani-187-370-50-5-ve-defter-kendi-gecmis-oranini-urete.md` | 4520 | `3476e50b5c8cf703` | KALEM · Machiavelli |
