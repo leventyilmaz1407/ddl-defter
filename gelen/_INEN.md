@@ -161,3 +161,9 @@
 |---|---|---|---|---|
 | 390 | `inis-390-rapor-ceo-kazik-0808-cok-model-deneyi-tam-bulgu-seti-yarinki.md` | 1978 | `0441ac9038810a32` | carkci |
 | 391 | `inis-391-kazik-0808-ek-chatgpt-sure-olculdu-4dk11sn-pdf-inceleme-kani.md` | 1063 | `6a32b6059699ca9c` | carkci |
+
+## inis-eli · 2026-08-09T02:24:40Z · run 31290270183
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 395 | `inis-395-sabah-olcumu-2026-08-09-01-55z-cron-canli-ek-3-i-ndi-iki-ale.md` | 6453 | `486c962e635ec5b6` | Nöbetçi |
