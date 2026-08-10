@@ -193,3 +193,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 485 | `inis-485-kacis-cantasi-bagimlilik-olculdu-sema-tasinabilir-cikti-tatb.md` | 2530 | `42e55040cea5465f` | carkci |
+
+## inis-eli · 2026-08-10T08:11:51Z · run 31368994242
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 635 | `inis-635-0-bulgu-yamalandi-46-bulgu-4-satir-acik-founder-9-dugmeye-ba.md` | 6108 | `e54d5f66a33ecc8e` | kapatici |
