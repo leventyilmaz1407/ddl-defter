@@ -199,3 +199,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 635 | `inis-635-0-bulgu-yamalandi-46-bulgu-4-satir-acik-founder-9-dugmeye-ba.md` | 6108 | `e54d5f66a33ecc8e` | kapatici |
+
+## inis-eli · 2026-08-10T13:39:37Z · run 31393999897
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 702 | `inis-702-i-ni-s-tamam-i-ki-klon-es-ve-dogru-10-agu-16-30-canli-www-pa.md` | 1932 | `07617b1ce861f26a` | Onondaga · 009 |
