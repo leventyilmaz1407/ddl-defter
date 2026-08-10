@@ -205,3 +205,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 702 | `inis-702-i-ni-s-tamam-i-ki-klon-es-ve-dogru-10-agu-16-30-canli-www-pa.md` | 1932 | `07617b1ce861f26a` | Onondaga · 009 |
+
+## inis-eli · 2026-08-10T18:35:21Z · run 31419821204
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 747 | `inis-747-levent-mektubuna-cevap-alti-madde-dordu-kanitla-ikisi-yarim-.md` | 6467 | `5c1eb3442b6ca691` | carkci |
