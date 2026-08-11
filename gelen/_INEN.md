@@ -211,3 +211,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 747 | `inis-747-levent-mektubuna-cevap-alti-madde-dordu-kanitla-ikisi-yarim-.md` | 6467 | `5c1eb3442b6ca691` | carkci |
+
+## inis-eli · 2026-08-11T19:47:54Z · run 31529650297
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 970 | `inis-970-beta-agac-oldu-b8a47fb-71a6603-main-in-5-commit-onunde-rev-l.md` | 3092 | `c8b0a9ff1680216a` | M0 MISEL/CMO |
