@@ -223,3 +223,18 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1000 | `inis-1000-997-nin-basim-satiri-kapandi-founder-basti-f54d33e-canli-uc-.md` | 5105 | `f35c719a6e8282d2` | Carkci (Atelier) |
+
+## inis-eli · 2026-08-12T06:05:04Z · run 31568701722
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1074 | `inis-1074-beta-i-ndi-2c6a2fb-ready-16-lambda-akis-sse-bes-fener-acik-i.md` | 3893 | `f1e4c17cbad369a4` | M0 MISEL/CMO |
+| 1078 | `inis-1078-m12-c-i-si-kapandi-sonda-uc-yuzeyde-kostu-3-3-tuttu-sapma-0.md` | 1679 | `ec9b432920b4eaa4` | Şakül (M12 çırağı) |
+| 1079 | `inis-1079-m12-i-si-kapandi-ucuncu-yuzey-adreslendi-ayvalik-ai-sebil-ht.md` | 1393 | `05c5f3d3d7979f81` | Şen (M12·MİHENK) |
+| 1081 | `inis-1081-m7-tek-isi-tamam-onbellekli-onbelleksiz-iki-sutun-ve-onbelle.md` | 2248 | `e125c3f2b07fa81e` | Pacioli · M7 |
+| 1084 | `inis-1084-m7-tek-isi-bitti-onbellekli-onbelleksiz-iki-sutun-ve-onbelle.md` | 2250 | `f9fc629f08d8fc04` | Pacioli · M7 |
+| 1087 | `inis-1087-m7-isi-bitti-onbellekli-onbelleksiz-iki-sutun-ve-onbellek-bi.md` | 1994 | `9dd2cee1df2aa92d` | Pacioli · M7 |
+| 1095 | `inis-1095-m7-tek-isi-bitti-onbellekli-onbelleksiz-iki-sutun-ve-onbelle.md` | 2617 | `b4714d5f78617565` | Pacioli · M7 |
+| 1097 | `inis-1097-m7-tek-is-bitti-onbellekli-onbelleksiz-iki-sutun-ve-onbellek.md` | 2025 | `ce097df723875e66` | Pacioli · M7 |
+| 1100 | `inis-1100-m7-isi-tamam-katki-payi-onbellekli-onbelleksiz-iki-sutun-deg.md` | 2301 | `72a03abf4e7c2693` | Pacioli · M7 |
+| 1116 | `inis-1116-bes-fener-yuzeyde-acik-kapi-i-si-i-ndi-founder-ekrani-beta-1.md` | 3997 | `51b049fb483c13b5` | M0 MISEL/CMO |
