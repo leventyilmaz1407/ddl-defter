@@ -6,17 +6,22 @@
 
 ---
 
-## §0 · Fiyat ve hedef (Founder, 12 Ağu)
+## §0 · Fiyat + kur mekanizması (Founder, 12 Ağu — kur mekanizması KAPANDI)
 
-| plan | ₺/ay | not |
+| plan | anchor | not |
 |---|---|---|
 | **Sebil** | 0 | bedava, sınırsız, kimliksiz |
-| **Plan A** | **290** | bireysel |
-| **Plan B** | **2900** | kurumsal/profesyonel (10× A) |
+| **Plan A** | **29 €** | bireysel · parrhesia.one endeksli |
+| **Plan B** | **290 €** | kurumsal · parrhesia.one endeksli (10× A) |
 
-- **6 ayda bir güncelleme** — TÜFE değil, **USD/TRY + Anthropic fiyatını** izlemeli (§5).
-- **Ay-1 hedefi:** 100 × 2900 + 1000 × 290 = **580.000 ₺/ay** (1100 paralı).
+**Mekanizma:** fiyat **parrhesia.one endeksli** (anchor EUR 29/290€); tahsilat **TL, sabit peg** (canlı çevrim yok — dönem başında EUR×kur ile ₺ sabitlenir); **6 ayda bir yeniden pegleme = kur + enflasyon.**
+
+🔀 **Sayısal çatal (onay bekliyor):** 29/290€ @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~14.000 ₺** — iki tur önceki 290/2900 ₺'nin ~5 katı. "29/290€ endeksli" hükmüyle (a) tam-EUR-eşdeğeri okundu; 290/2900 ₺ kastedildiyse (b) derin-indirim, ayrı karar.
+
+- **Ay-1 hedefi:** 100 × PlanB + 1000 × PlanA (1100 paralı). *(₺ tutar çatala bağlı: (a) ≈ 2,8M ₺/ay · (b) ≈ 580K ₺/ay.)*
 - **Yılbaşı hedefi:** 10k — *hangi 10k belirleyici* (§6).
+
+> ⚠️ **§2 başabaş ve §4 P&L rakamları 290/2900 ₺ (b) taslağından.** (a) onaylanırsa ~5× yukarı ölçeklenir — gelir ve marj belirgin iyileşir.
 
 ---
 
@@ -76,7 +81,7 @@ Headroom var; net'i belirleyen **bedava-yanma + soru/abone**, ikisi de ölçülm
 
 ## §5 · İki sert uyarı
 
-**① FX makası — maliyet USD, gelir ₺.** Anthropic USD faturalıyor, tahsil ₺. TL düşerse ₺-maliyet artar, gelir sabit → marj erir. **6 aylık güncelleme USD/TRY + Anthropic fiyatını izlemeli, TÜFE'yi değil.** (= açık kur mekanizması kararı.)
+**① FX makası — mekanizmayla büyük ölçüde KAPANDI.** Maliyet USD, fiyat **EUR-peg** → EUR ile USD TL'ye karşı birlikte hareket eder, 6-aylık kur güncellemesi kalanı toplar. Kalan risk: iki güncelleme arası EUR/TRY kayması (dönemsel, sınırlı). ⚠️ **Kur ≠ enflasyon çifte sayma:** EUR-peg zaten model maliyetini (USD/EUR) taşıyor → **kur güncellemesi = EUR-peg tazeleme; enflasyon güncellemesi = yalnız TL-yerel giderler** (personel/ofis/yerel). İki gerekçe ayrı, üst üste binmesin.
 
 **② 290 ₺ ≠ 29 €.** 2026'da 29 € ≈ 1200-1500 ₺ → 290 ₺ bilinçli derin yerel indirim. Ayvalıklı için doğru; **turist/AB kartı çok fazlasını öderdi** → ayrı EUR fiyatı (MoR/telefon-kapısı) tabloyu bozmadan ek gelir.
 

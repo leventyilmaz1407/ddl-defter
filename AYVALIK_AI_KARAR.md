@@ -108,7 +108,7 @@ Aşağıdakiler para belirler ve/veya imza/fiyat/anayasa alanına girer → CW_C
 | # | ne | neyi kilitliyor | el |
 |---|---|---|---|
 | 1 | **Sebil aylık yakım tavanı** | free kota + marj | **SEN** |
-| 2 | **Kur mekanizması** — sabit mi, canlı mı | 29€/290€ ↔ TL | **SEN** |
+| 2 | ~~Kur mekanizması~~ **KAPANDI 12 Ağu** | parrhesia.one endeksli 29/290€ · TL sabit peg · 6 ayda bir kur+enflasyon (bkz. `AYVALIK_BIRIM_EKONOMI.md §0`) | ✅ |
 | 3 | **Devirme mührü** (guard kullanım izni — aynı ev ama yazılı olsun) | §3 aktarımının hukuki zemini | **SEN** |
 | 4 | **Mimari sayısı** — tek model mi, çok mu | free kotası, One Plus içeriği, **marjın tamamı** | **SEN** (12 Ağu "tek sağlayıcı" dedi; **fiyat yazılmadan teyit**) |
 | 5 | **Model** — KillTest'siz seçilmez | zayıf model ANAYASA'yı çok ihlal eder → guard çok tetikler → kullanıcı sürekli "kaynak açmadım" görür. **Ucuz olan değil, guard'ı en az tetikleyen kazanır.** 20 soru × 2 model, tetiklenme sayımı | ikiniz |

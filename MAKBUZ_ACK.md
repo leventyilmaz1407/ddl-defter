@@ -148,3 +148,7 @@ ACK AYVALIK-KADEME-0812 · Founder chat: "opus 4.8 ya da Sonnet, en üst max eff
 ACK AYVALIK_BIRIM_EKONOMI.md landed · 5733 B · sha256 940eb728dd7161f9 · CW eliyle yazıldı+indi · 2026-08-12 — CW
   Founder: fiyat 290/2900 ₺, ay-1 hedef 100×2900+1000×290, yılbaşı 10k. CW: birim ekonomi + routing optimumu + başabaş + P&L + FX/290≠29€ uyarıları.
   Rakamlar MODEL (hacim/kur ölçülmedi), fiyat+Anthropic $/1M ölçüm. Fiyat sağlaması: seviye sağlam, hedef iddialı, orta kademe+turist-EUR öneri. — CW
+
+ACK AYVALIK-KUR-KARAR-0812 · Founder chat: "parrhesia.one endeksli, 29/290€, TL sabitlemesi, 6 ayda bir kur+enflasyon" · DOSYA YOK · SHA YOK — CW
+  Kur mekanizması KAPANDI: EUR-anchor 29/290€, TL sabit peg, dönemsel yeniden pegleme. FX makası büyük ölçüde kapandı; kur≠enflasyon çifte-sayma uyarısı kayıtlı.
+  Sayısal çatal açık: 29/290€ peg (~1400/14000 ₺) vs önceki 290/2900 ₺ — onay bekliyor. BIRIM_EKONOMI §0/§5① + KARAR §6 güncellendi. — CW
