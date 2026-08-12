@@ -16,12 +16,10 @@
 
 **Mekanizma:** fiyat **parrhesia.one endeksli** (anchor EUR 29/290€); tahsilat **TL, sabit peg** (canlı çevrim yok — dönem başında EUR×kur ile ₺ sabitlenir); **6 ayda bir yeniden pegleme = kur + enflasyon.**
 
-🔀 **Sayısal çatal (onay bekliyor):** 29/290€ @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~14.000 ₺** — iki tur önceki 290/2900 ₺'nin ~5 katı. "29/290€ endeksli" hükmüyle (a) tam-EUR-eşdeğeri okundu; 290/2900 ₺ kastedildiyse (b) derin-indirim, ayrı karar.
+✅ **Çatal kapandı (Founder, 12 Ağu):** ayvalik.ai = **29€ / 290€** iki katman. **2900 parrhesia.one'ın katmanı** (2900€), ayvalık'ın değil. TL peg @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~14.000 ₺.** Merdiven: ayvalık 29€ → ayvalık 290€ (parrhesia-290 erişimi dahil) → parrhesia.one 2900€ (ayrı ürün premium).
 
-- **Ay-1 hedefi:** 100 × PlanB + 1000 × PlanA (1100 paralı). *(₺ tutar çatala bağlı: (a) ≈ 2,8M ₺/ay · (b) ≈ 580K ₺/ay.)*
+- **Ay-1 hedefi:** 100 × 290€ + 1000 × 29€ = **58.000 €/ay ≈ ~2,8M ₺/ay** (1100 paralı).
 - **Yılbaşı hedefi:** 10k — *hangi 10k belirleyici* (§6).
-
-> ⚠️ **§2 başabaş ve §4 P&L rakamları 290/2900 ₺ (b) taslağından.** (a) onaylanırsa ~5× yukarı ölçeklenir — gelir ve marj belirgin iyileşir.
 
 ---
 
@@ -48,15 +46,15 @@ Optimizasyon = **maliyeti en aza indir, ama her zorluk kademesinde guard-tetikle
 
 ## §2 · Başabaş soru sayısı (abone başına, optimize routing)
 
-Maliyet abone sayısına değil **abone başına soruya** bağlı. *USD/TRY ≈ 45 varsayıldı — açık "kur mekanizması" kararı.*
+Maliyet abone sayısına değil **abone başına soruya** bağlı. *EUR/USD ≈ 1,08 varsayıldı.*
 
 | plan | gelir | ~$/soru | **başabaş soru/ay** |
 |---|---|---|---|
-| Plan A 290₺ (~$6,4) | | ~$0,03 | **~215 derin soru** |
-| Plan A ucuz yönlendirilirse | | ~$0,01 | ~640 |
-| Plan B 2900₺ (~$64) | | ~$0,10 | **~640 derin soru** |
+| Plan A 29€ (~$31) | | ~$0,03 | **~1.030 derin soru** |
+| Plan A ucuz yönlendirilirse | | ~$0,01 | ~3.100 |
+| Plan B 290€ (~$313) | | ~$0,10 | **~3.130 derin soru** |
 
-**Naif Opus-max olsaydı** Plan A başabaşı **~40 soruya** düşerdi → çoğu kullanıcı zarar. → **Aksiyon:** Plan A'ya adil-kullanım tavanı (~150 derin soru/ay, üstü ucuz kademeye throttle). Plan B cömert kalabilir.
+**EUR-anchor marjı şişiriyor:** model maliyeti gelirin ~%10'u → başabaş çok yüksek (Plan A ~1.000+ derin soru), **adil-kullanım tavanı endişesi büyük ölçüde düştü.** (Naif Opus-max olsaydı Plan A ~200 soruya inerdi — routing yine kritik ama artık geniş pay var.)
 
 ---
 
@@ -69,13 +67,13 @@ Başabaşı yok; saf gider = *bedava kullanıcı × soru × maliyet.* 10.000 bed
 ## §4 · Ay-1 kaba P&L (MODEL hacimler)
 
 ```
-Gelir                                       +580.000 ₺
-− Model (paralı, ~$4K optimize · ×45)       −180.000 ₺
-− Ödeme komisyonu (~%4 iyzico / bank az)     −24.000 ₺
+Gelir (58.000€ ≈ ×48)                     +2.800.000 ₺
+− Model (paralı, ~$4K optimize · ×45)       −180.000 ₺   (gelirin ~%6-10'u)
+− Ödeme komisyonu (~%4 iyzico / bank az)    −112.000 ₺
 − Bedava sebil yanması (tavana bağlı)        −90.000 ₺   ← swing
-= Sabit/pazarlama öncesi net               ≈ +286.000 ₺
+= Sabit/pazarlama öncesi net             ≈ +2.418.000 ₺
 ```
-Headroom var; net'i belirleyen **bedava-yanma + soru/abone**, ikisi de ölçülmedi.
+EUR-anchor'la marj **kalın** — model maliyeti gelirin küçük kesri. Risk artık marjda değil: **(1) dönüşüm** (§6) ve **(2) bedava-yanma tavanı** (§3).
 
 ---
 
@@ -89,9 +87,9 @@ Headroom var; net'i belirleyen **bedava-yanma + soru/abone**, ikisi de ölçülm
 
 ## §6 · Fiyat sağlaması + yılbaşı 10k
 
-- **Seviye abartı değil:** Plan A değere göre düşük-adil (avukat/muayene binlerce ₺), başabaş rahat. Plan B net kurumsal kademe.
-- 🔴 **Abartı riski hedefte:** ay-1'de 1100 paralı bir kasabada agresif — geniş bedava tepe + değer kanıtı şart.
-- 🟠 **290→2900 arası 10× boşluk:** arada bir kademe (**690-990 ₺ "Plus"**) orta segmenti yakalar, dönüşümü artırır.
+- **Marj sağlam** (§4) — EUR-anchor'la model maliyeti gelirin küçük kesri.
+- 🔴 **Asıl risk DÖNÜŞÜM:** EUR-peg ile Plan A ≈ **~1.400 ₺/ay** (önceki 290 ₺ okumasının ~5 katı) → kasabada satması **daha zor.** Ay-1'de 1100 paralı @ bu fiyat agresif — geniş bedava tepe + güçlü değer kanıtı + belki giriş kampanyası şart.
+- 🟠 **29€→290€ arası 10× boşluk** (~1.400 → ~14.000 ₺): arada bir **"Plus"** kademesi (örn. 79-99€) 290€'yu çok, 29€'yu az bulan orta segmenti yakalar.
 - **Yılbaşı 10k:** 10k paralı → çok kârlı; 10k bedava → yanma büyür, tavan+dönüşüm şart. *Sayı değil kompozisyon.*
 
 ---

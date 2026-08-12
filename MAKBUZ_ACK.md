@@ -152,3 +152,7 @@ ACK AYVALIK_BIRIM_EKONOMI.md landed · 5733 B · sha256 940eb728dd7161f9 · CW e
 ACK AYVALIK-KUR-KARAR-0812 · Founder chat: "parrhesia.one endeksli, 29/290€, TL sabitlemesi, 6 ayda bir kur+enflasyon" · DOSYA YOK · SHA YOK — CW
   Kur mekanizması KAPANDI: EUR-anchor 29/290€, TL sabit peg, dönemsel yeniden pegleme. FX makası büyük ölçüde kapandı; kur≠enflasyon çifte-sayma uyarısı kayıtlı.
   Sayısal çatal açık: 29/290€ peg (~1400/14000 ₺) vs önceki 290/2900 ₺ — onay bekliyor. BIRIM_EKONOMI §0/§5① + KARAR §6 güncellendi. — CW
+
+ACK AYVALIK-FIYAT-CATAL-KAPANDI-0812 · Founder chat: "ayvalik.ai 29 ve 290 euro katmanı / 2900 parrhesia.one'da" · DOSYA YOK · SHA YOK — CW
+  Çatal (a) doğrulandı: ayvalik = 29/290€ (TL peg ~1400/14000 ₺); 2900€ parrhesia.one'ın. BIRIM_EKONOMI §0/§2/§4/§6 EUR-anchor'a çekildi.
+  Sonuç: marj kalın (model ~%6-10), başabaş ~1000+ soru (tavan endişesi düştü); asıl risk DÖNÜŞÜM (fiyat 5× yüksek) + bedava-yanma. — CW
