@@ -156,3 +156,7 @@ ACK AYVALIK-KUR-KARAR-0812 · Founder chat: "parrhesia.one endeksli, 29/290€, 
 ACK AYVALIK-FIYAT-CATAL-KAPANDI-0812 · Founder chat: "ayvalik.ai 29 ve 290 euro katmanı / 2900 parrhesia.one'da" · DOSYA YOK · SHA YOK — CW
   Çatal (a) doğrulandı: ayvalik = 29/290€ (TL peg ~1400/14000 ₺); 2900€ parrhesia.one'ın. BIRIM_EKONOMI §0/§2/§4/§6 EUR-anchor'a çekildi.
   Sonuç: marj kalın (model ~%6-10), başabaş ~1000+ soru (tavan endişesi düştü); asıl risk DÖNÜŞÜM (fiyat 5× yüksek) + bedava-yanma. — CW
+
+ACK AYVALIK-290-PAKET-0812 · Founder chat: "ayvalik.ai 290 içinde p1 de included" · DOSYA YOK · SHA YOK — CW
+  290€ = ayvalık + p1 paketi (iki motor, tek abonelik) → değer önerisi güçlü, hedef B2B. BIRIM_EKONOMI §0 merdiven + §6 dönüşüm iki-katmana ayrıldı.
+  29€ tek ürün (bireysel, dönüşüm zor); 290€ paket (kurumsal). Plus kademesi p1'i yememeli uyarısı. — CW

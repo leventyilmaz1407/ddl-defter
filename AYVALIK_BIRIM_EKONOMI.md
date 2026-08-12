@@ -16,7 +16,12 @@
 
 **Mekanizma:** fiyat **parrhesia.one endeksli** (anchor EUR 29/290€); tahsilat **TL, sabit peg** (canlı çevrim yok — dönem başında EUR×kur ile ₺ sabitlenir); **6 ayda bir yeniden pegleme = kur + enflasyon.**
 
-✅ **Çatal kapandı (Founder, 12 Ağu):** ayvalik.ai = **29€ / 290€** iki katman. **2900 parrhesia.one'ın katmanı** (2900€), ayvalık'ın değil. TL peg @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~14.000 ₺.** Merdiven: ayvalık 29€ → ayvalık 290€ (parrhesia-290 erişimi dahil) → parrhesia.one 2900€ (ayrı ürün premium).
+✅ **Çatal kapandı (Founder, 12 Ağu):** ayvalik.ai = **29€ / 290€** iki katman. **2900 parrhesia.one'ın katmanı** (2900€), ayvalık'ın değil. TL peg @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~14.000 ₺.**
+
+**Merdiven — ve 290€ bir PAKET:**
+- **29€** = ayvalık (Haklarınız + Sağlığınız), tek ürün
+- **290€** = ayvalık **+ p1 (parrhesia.one) dahil** — iki ürün, tek abonelik. *Değer önerisi burada güçlü: tek fiyat, iki motor.*
+- **2900€** = parrhesia.one'ın kendi premium katmanı (ayrı ürün, standalone)
 
 - **Ay-1 hedefi:** 100 × 290€ + 1000 × 29€ = **58.000 €/ay ≈ ~2,8M ₺/ay** (1100 paralı).
 - **Yılbaşı hedefi:** 10k — *hangi 10k belirleyici* (§6).
@@ -88,8 +93,10 @@ EUR-anchor'la marj **kalın** — model maliyeti gelirin küçük kesri. Risk ar
 ## §6 · Fiyat sağlaması + yılbaşı 10k
 
 - **Marj sağlam** (§4) — EUR-anchor'la model maliyeti gelirin küçük kesri.
-- 🔴 **Asıl risk DÖNÜŞÜM:** EUR-peg ile Plan A ≈ **~1.400 ₺/ay** (önceki 290 ₺ okumasının ~5 katı) → kasabada satması **daha zor.** Ay-1'de 1100 paralı @ bu fiyat agresif — geniş bedava tepe + güçlü değer kanıtı + belki giriş kampanyası şart.
-- 🟠 **29€→290€ arası 10× boşluk** (~1.400 → ~14.000 ₺): arada bir **"Plus"** kademesi (örn. 79-99€) 290€'yu çok, 29€'yu az bulan orta segmenti yakalar.
+- 🔴 **Asıl risk DÖNÜŞÜM — ve iki katmanda farklı:**
+  - **29€ (~1.400 ₺):** tek ürün, kasabada satması zor (önceki 290 ₺'nin 5 katı) → geniş bedava tepe + değer kanıtı + giriş kampanyası şart.
+  - **290€ (~14.000 ₺):** **p1 dahil paket** → değer önerisi güçlü; ama fiyat noktası kurumsal, hedef kitle avukat/klinik/emlakçı. B2B satışı, bireysel değil.
+- 🟠 **29€→290€ arası 10× boşluk** (~1.400 → ~14.000 ₺): arada bir **"Plus"** kademesi (örn. 79-99€) 290€ paketini çok, 29€'yu az bulan orta segmenti yakalar. *(Ama Plus'a p1 katılırsa 290€ paketini yer — dikkatli konumla.)*
 - **Yılbaşı 10k:** 10k paralı → çok kârlı; 10k bedava → yanma büyür, tavan+dönüşüm şart. *Sayı değil kompozisyon.*
 
 ---
