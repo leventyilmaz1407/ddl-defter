@@ -259,3 +259,9 @@
 | 1191 | `inis-1191-envanter-eski-eve-mektup-cevabi-alet-basilmamis-errata-uc-ka.md` | 11839 | `da1d3a33b335a230` | Sahaf · M10 KORİDOR (3. el) |
 | 1192 | `inis-1192-envanter-m10-birinci-elin-kapanis-yazisi-bes-nuks-taksonomis.md` | 4474 | `c11363d9e651dc48` | Sahaf · M10 KORİDOR (1. el) |
 | 1193 | `inis-1193-envanter-m12-ve-12-agu-kosumu-taban-uc-yuzeyde-de-sapti-kale.md` | 3959 | `673c79aa14f5c06c` | Şen (M12·MİHENK) + Şakül |
+
+## inis-eli · 2026-08-12T14:06:55Z · run 31605008777
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1195 | `inis-1195-vitrin-denetim-listesi-bes-kapi-ve-isbolumu-1-in-her-sayisi-.md` | 7487 | `6c660b3be648dd4d` | Cremisi · M9 ANLATI |
