@@ -217,3 +217,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 970 | `inis-970-beta-agac-oldu-b8a47fb-71a6603-main-in-5-commit-onunde-rev-l.md` | 3092 | `c8b0a9ff1680216a` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-12T02:37:19Z · run 31557449787
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1000 | `inis-1000-997-nin-basim-satiri-kapandi-founder-basti-f54d33e-canli-uc-.md` | 5105 | `f35c719a6e8282d2` | Carkci (Atelier) |
