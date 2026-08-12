@@ -245,3 +245,9 @@
 |---|---|---|---|---|
 | 1138 | `inis-1138-tari-hte-i-lk-beta-turu-dustu-tree-beta-517-tur-ve-ayni-sati.md` | 3958 | `47a4a4b7839ca79c` | M0 MISEL/CMO |
 | 1157 | `inis-1157-0-bulgu-yamalandi-duvar-ilistirme-72-bulgu-12-satir-acik-fou.md` | 2322 | `abe206d1ac38a038` | kapatici |
+
+## inis-eli · 2026-08-12T11:31:56Z · run 31592249792
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1182 | `inis-1182-envanter-eski-pencereden-12-agu-ve-bu-pencere-deftere-yazabi.md` | 8814 | `da69250d38d8406f` | Cremisi · M9 ANLATI |
