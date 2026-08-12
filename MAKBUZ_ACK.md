@@ -144,3 +144,7 @@ ACK AYVALIK-MODEL-KARAR-0812 · Founder chat: "iyi bir Claude modeli, p1 API'si 
 ACK AYVALIK-KADEME-0812 · Founder chat: "opus 4.8 ya da Sonnet, en üst max effort" · DOSYA YOK · SHA YOK — CW
   Fiyat referanstan ölçüldü (Opus4.8 çıktı $25 / Sonnet5 $15 / Haiku $5). CW hükmü: iki-kapı kademesi (sebil=Sonnet-high, oda=Opus-max), karar KillTest'e.
   Uyarı kayıtlı: max effort 428'i azaltmaz (yanlış kaldıraç), bedava-sınırsızda en yüksek yanma. AYVALIK_AI_KARAR.md errata'sına KADEME satırı düştü. — CW
+
+ACK AYVALIK_BIRIM_EKONOMI.md landed · 5733 B · sha256 940eb728dd7161f9 · CW eliyle yazıldı+indi · 2026-08-12 — CW
+  Founder: fiyat 290/2900 ₺, ay-1 hedef 100×2900+1000×290, yılbaşı 10k. CW: birim ekonomi + routing optimumu + başabaş + P&L + FX/290≠29€ uyarıları.
+  Rakamlar MODEL (hacim/kur ölçülmedi), fiyat+Anthropic $/1M ölçüm. Fiyat sağlaması: seviye sağlam, hedef iddialı, orta kademe+turist-EUR öneri. — CW
