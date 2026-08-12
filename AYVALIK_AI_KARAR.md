@@ -17,6 +17,8 @@ Bu belge artık tek başına değil: `AYVALIK_KANON_BAGI.md` (Onondaga·007, def
 
 Bu turda kendi elimle ölçemediğim (kapsam dışı: Supabase/ayrı proje) her şey yukarıda `carried`. Kanon dosyası koridora `inis-eli` ile (id 1197) inecek.
 
+**B4 eklendi — `gelen/PAC-0812-A_AYVALIK_AI_DOSYASI.md`** (Pacioli·M7·KASA, 14 M7 dosyasından; CW eliyle verbatim indi, 10.255 B · sha256 `191b8046b967de9a`). B4 üç kalemi keskinleştiriyor: **VakıfBank'ta "Tekrarlı Tahsilat" VAR** (recurring — §5'te "sen kurarsın" endişemi hafifletir; oran ilan edilmiyor, asıl istek *valör*), **Stripe TR yok teyitli** (44 ülke listesinde değil), **iyzico %4,29 + 0,25 TL · 3 hafta valör**. B4'ün bir kısmı **bayat**: kaynak dosyaları ≤5 Ağu olduğu için "mimari unexamined" ve "One Plus 29€ (Plan B yok)" diyor — **ikisini de 1186 (12 Ağu) devirdi**: tek provider + Mach-1 kararlaştı, fiyat Free/29/290'a çıktı. Yani B4 envanterdir, en taze hüküm değil; taze hüküm 1186 + bu dosya.
+
 ---
 
 ## 0 · Önce ışıkta bırakılan boşluk (op-gate)

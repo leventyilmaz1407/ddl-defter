@@ -132,3 +132,7 @@ ACK AYVALIK_KARARLAR.md (DUMAN derleme) · uploads'tan okundu, KORİDORDA DEĞİ
 ACK AYVALIK_KANON_BAGI.md (Onondaga·007, id 1197) · uploads'tan okundu, KORİDORDA DEĞİL · 4871 B · sha256 28f4af2e0c674f03 · 2026-08-12 — CW
   İkisi de /root/.claude/uploads'ta okundu, gelen/ değil; inis-eli ile (1197) koridora inecek, o an tam makbuz.
   Bu okuma AYVALIK_AI_KARAR.md'ye ERRATA bloğu olarak indi: kanon B1+B2+B3'ü bağladı, B2'nin üç boşluğu ölçümle kapandı. — CW
+
+ACK gelen/PAC-0812-A_AYVALIK_AI_DOSYASI.md landed · 10255 B · sha256 191b8046b967de9a · Founder eliyle upload, CW verbatim indirdi · 2026-08-12 — CW
+  Pacioli·M7·KASA'nın 14 M7 dosyasından derlemesi (dördüncü ayvalık toplu dosyası = B4). İçerik değişmeden gelen/'e kondu.
+  AYVALIK_AI_KARAR.md errata'sına B4 işareti düştü: VakıfBank Tekrarlı Tahsilat var · Stripe TR yok · iyzico 3 hafta valör; bir kısmı ≤5 Ağu bayat, 1186 devirdi. — CW
