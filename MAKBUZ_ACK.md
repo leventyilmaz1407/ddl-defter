@@ -160,3 +160,7 @@ ACK AYVALIK-FIYAT-CATAL-KAPANDI-0812 · Founder chat: "ayvalik.ai 29 ve 290 euro
 ACK AYVALIK-290-PAKET-0812 · Founder chat: "ayvalik.ai 290 içinde p1 de included" · DOSYA YOK · SHA YOK — CW
   290€ = ayvalık + p1 paketi (iki motor, tek abonelik) → değer önerisi güçlü, hedef B2B. BIRIM_EKONOMI §0 merdiven + §6 dönüşüm iki-katmana ayrıldı.
   29€ tek ürün (bireysel, dönüşüm zor); 290€ paket (kurumsal). Plus kademesi p1'i yememeli uyarısı. — CW
+
+ACK AYVALIK-FIYAT-REVIZE-0812 · Founder chat: "290 olmaz 29x5 olur / 29 ve 29x5 / p1 not included" · DOSYA YOK · SHA YOK — CW
+  ayvalik.ai = 29€ / 145€ (29×5), p1 DAHİL DEĞİL (standalone). BIRIM_EKONOMI §0/§2/§4/§6 güncellendi: peg ~1400/~7000 ₺, ay-1 ≈ 43.500€ ≈ 2,09M ₺.
+  Boşluk 10×→5× indi; 145'in içeriği tanımlanmalı (One Plus içeriği açık kalemi buraya). p1 paketi kalktı. — CW

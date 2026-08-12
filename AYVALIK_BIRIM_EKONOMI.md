@@ -11,19 +11,19 @@
 | plan | anchor | not |
 |---|---|---|
 | **Sebil** | 0 | bedava, sınırsız, kimliksiz |
-| **Plan A** | **29 €** | bireysel · parrhesia.one endeksli |
-| **Plan B** | **290 €** | kurumsal · parrhesia.one endeksli (10× A) |
+| **Plan A** | **29 €** | bireysel · ayvalık |
+| **Plan B** | **145 € (29×5)** | ayvalık premium · **p1 DAHİL DEĞİL** |
 
-**Mekanizma:** fiyat **parrhesia.one endeksli** (anchor EUR 29/290€); tahsilat **TL, sabit peg** (canlı çevrim yok — dönem başında EUR×kur ile ₺ sabitlenir); **6 ayda bir yeniden pegleme = kur + enflasyon.**
+**Mekanizma:** fiyat **EUR-anchor** (29 / 145€); tahsilat **TL, sabit peg** (canlı çevrim yok — dönem başında EUR×kur ile ₺ sabitlenir); **6 ayda bir yeniden pegleme = kur + enflasyon.**
 
-✅ **Çatal kapandı (Founder, 12 Ağu):** ayvalik.ai = **29€ / 290€** iki katman. **2900 parrhesia.one'ın katmanı** (2900€), ayvalık'ın değil. TL peg @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~14.000 ₺.**
+✅ **Karar (Founder, 12 Ağu — revize):** ayvalik.ai = **29€ / 145€** (29×5), **p1 dahil değil** — ayvalık standalone. TL peg @ EUR/TRY ≈ 48 (*varsayım, açık*) ≈ **~1.400 ₺ / ~7.000 ₺.**
 
-**Merdiven — ve 290€ bir PAKET:**
-- **29€** = ayvalık (Haklarınız + Sağlığınız), tek ürün
-- **290€** = ayvalık **+ p1 (parrhesia.one) dahil** — iki ürün, tek abonelik. *Değer önerisi burada güçlü: tek fiyat, iki motor.*
-- **2900€** = parrhesia.one'ın kendi premium katmanı (ayrı ürün, standalone)
+**Merdiven (ayvalık standalone):**
+- **29€** = ayvalık (Haklarınız + Sağlığınız)
+- **145€** = ayvalık **premium** (5× A) — sınırsız/öncelik/geçmiş vb. *İçerik tanımı açık: 145'in 29'a kattığı ne? (`One Plus içeriği` açık kalemi buraya bağlı.)*
+- **p1 (parrhesia.one)** = **ayrı ürün, ayrı satın alım** (2900€ standalone) — ayvalık paketine girmez.
 
-- **Ay-1 hedefi:** 100 × 290€ + 1000 × 29€ = **58.000 €/ay ≈ ~2,8M ₺/ay** (1100 paralı).
+- **Ay-1 hedefi:** 100 × 145€ + 1000 × 29€ = **43.500 €/ay ≈ ~2,09M ₺/ay** (1100 paralı; hedef-mix Founder'ın).
 - **Yılbaşı hedefi:** 10k — *hangi 10k belirleyici* (§6).
 
 ---
@@ -57,7 +57,7 @@ Maliyet abone sayısına değil **abone başına soruya** bağlı. *EUR/USD ≈ 
 |---|---|---|---|
 | Plan A 29€ (~$31) | | ~$0,03 | **~1.030 derin soru** |
 | Plan A ucuz yönlendirilirse | | ~$0,01 | ~3.100 |
-| Plan B 290€ (~$313) | | ~$0,10 | **~3.130 derin soru** |
+| Plan B 145€ (~$157) | | ~$0,10 | **~1.570 derin soru** |
 
 **EUR-anchor marjı şişiriyor:** model maliyeti gelirin ~%10'u → başabaş çok yüksek (Plan A ~1.000+ derin soru), **adil-kullanım tavanı endişesi büyük ölçüde düştü.** (Naif Opus-max olsaydı Plan A ~200 soruya inerdi — routing yine kritik ama artık geniş pay var.)
 
@@ -72,11 +72,11 @@ Başabaşı yok; saf gider = *bedava kullanıcı × soru × maliyet.* 10.000 bed
 ## §4 · Ay-1 kaba P&L (MODEL hacimler)
 
 ```
-Gelir (58.000€ ≈ ×48)                     +2.800.000 ₺
-− Model (paralı, ~$4K optimize · ×45)       −180.000 ₺   (gelirin ~%6-10'u)
-− Ödeme komisyonu (~%4 iyzico / bank az)    −112.000 ₺
+Gelir (43.500€ ≈ ×48)                     +2.090.000 ₺
+− Model (paralı, ~$4K optimize · ×45)       −180.000 ₺   (gelirin ~%9)
+− Ödeme komisyonu (~%4 iyzico / bank az)     −84.000 ₺
 − Bedava sebil yanması (tavana bağlı)        −90.000 ₺   ← swing
-= Sabit/pazarlama öncesi net             ≈ +2.418.000 ₺
+= Sabit/pazarlama öncesi net             ≈ +1.736.000 ₺
 ```
 EUR-anchor'la marj **kalın** — model maliyeti gelirin küçük kesri. Risk artık marjda değil: **(1) dönüşüm** (§6) ve **(2) bedava-yanma tavanı** (§3).
 
@@ -93,10 +93,10 @@ EUR-anchor'la marj **kalın** — model maliyeti gelirin küçük kesri. Risk ar
 ## §6 · Fiyat sağlaması + yılbaşı 10k
 
 - **Marj sağlam** (§4) — EUR-anchor'la model maliyeti gelirin küçük kesri.
-- 🔴 **Asıl risk DÖNÜŞÜM — ve iki katmanda farklı:**
-  - **29€ (~1.400 ₺):** tek ürün, kasabada satması zor (önceki 290 ₺'nin 5 katı) → geniş bedava tepe + değer kanıtı + giriş kampanyası şart.
-  - **290€ (~14.000 ₺):** **p1 dahil paket** → değer önerisi güçlü; ama fiyat noktası kurumsal, hedef kitle avukat/klinik/emlakçı. B2B satışı, bireysel değil.
-- 🟠 **29€→290€ arası 10× boşluk** (~1.400 → ~14.000 ₺): arada bir **"Plus"** kademesi (örn. 79-99€) 290€ paketini çok, 29€'yu az bulan orta segmenti yakalar. *(Ama Plus'a p1 katılırsa 290€ paketini yer — dikkatli konumla.)*
+- 🔴 **Asıl risk DÖNÜŞÜM:**
+  - **29€ (~1.400 ₺):** bireysel; kasabada satması zor → geniş bedava tepe + değer kanıtı + giriş kampanyası şart.
+  - **145€ (~7.000 ₺):** ayvalık premium (p1 yok); 290€'ya göre daha ulaşılabilir prosumer/küçük-işletme noktası. Ama **145'in 29'a kattığı içerik tanımlı olmalı** — yoksa 5× fiyatı kimse ödemez (açık: One Plus içeriği).
+- 🟢 **Boşluk 10×'ten 5×'e indi** (29→145): orta kademe artık daha az gerekli; merdiven sıkılaştı.
 - **Yılbaşı 10k:** 10k paralı → çok kârlı; 10k bedava → yanma büyür, tavan+dönüşüm şart. *Sayı değil kompozisyon.*
 
 ---
