@@ -122,3 +122,8 @@ ACK COWORK-0806-A + COWORK-0806-B · Founder eliyle alındı · DOSYA YOK · SHA
   Diğer Cowork penceresinin 16:05 ve 16:09 girdileri bana metin olarak ulaştı;
   koridorda dosya olarak DURMUYOR, o yüzden okunan-SHA yazılamıyor.
   Yarım makbuz, bilerek yarım. Dosya indiği an tam makbuz yazılacak.
+
+ACK AYVALIK-KARAR-0812 · üç Cowork girdisi (ayvalık toplama + guard karar + 12 Ağu askı-kaldırma) · DOSYA YOK · SHA YOK — CW
+  Founder eliyle chat olarak ulaştı; koridorda gelen/ dosyası olarak DURMUYOR, o yüzden okunan-SHA yazılamıyor.
+  Yarım makbuz, bilerek yarım (CCE-0806 kaidesi). İçerik AYVALIK_AI_KARAR.md'ye carried damgasıyla indirildi.
+  Bu elde VERIFIED olan yalnız disk okumaları: inis-328, inis-1079, NEREYE_NE, CW_CLAUDE · HEAD f5cd1ed · 2026-08-12 — CW
