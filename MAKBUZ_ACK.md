@@ -127,3 +127,8 @@ ACK AYVALIK-KARAR-0812 · üç Cowork girdisi (ayvalık toplama + guard karar + 
   Founder eliyle chat olarak ulaştı; koridorda gelen/ dosyası olarak DURMUYOR, o yüzden okunan-SHA yazılamıyor.
   Yarım makbuz, bilerek yarım (CCE-0806 kaidesi). İçerik AYVALIK_AI_KARAR.md'ye carried damgasıyla indirildi.
   Bu elde VERIFIED olan yalnız disk okumaları: inis-328, inis-1079, NEREYE_NE, CW_CLAUDE · HEAD f5cd1ed · 2026-08-12 — CW
+
+ACK AYVALIK_KARARLAR.md (DUMAN derleme) · uploads'tan okundu, KORİDORDA DEĞİL · 10688 B · sha256 8f5cacab774cae13 · 2026-08-12 — CW
+ACK AYVALIK_KANON_BAGI.md (Onondaga·007, id 1197) · uploads'tan okundu, KORİDORDA DEĞİL · 4871 B · sha256 28f4af2e0c674f03 · 2026-08-12 — CW
+  İkisi de /root/.claude/uploads'ta okundu, gelen/ değil; inis-eli ile (1197) koridora inecek, o an tam makbuz.
+  Bu okuma AYVALIK_AI_KARAR.md'ye ERRATA bloğu olarak indi: kanon B1+B2+B3'ü bağladı, B2'nin üç boşluğu ölçümle kapandı. — CW

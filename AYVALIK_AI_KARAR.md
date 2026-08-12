@@ -6,6 +6,19 @@
 
 ---
 
+## ERRATA — 12 Ağu, kanon bağından sonra (bu dosya = B2)
+
+Bu belge artık tek başına değil: `AYVALIK_KANON_BAGI.md` (Onondaga·007, defter id 1197) üç karar belgesini bağladı — **B1** `TELEFON_KAPISI_0807` (Çarkçı, 7 Ağu, sha16 `fb6a617d`) · **B2 = bu dosya** · **B3** `AYVALIK_KARAR_DOSYASI` (defter id 1186). Üçü çelişmiyor; **birbirini bilmiyordu.** Kanon, bu dosyanın (B2) üç boşluğunu ölçümle kapattı — aşağıdaki üç kalemi bu ışıkta oku:
+
+- **§6·8 (giriş açık/kapalı) ve §7 (logTurn) DÜŞTÜ — birleştiren tez: İKİ KAPI.** *Sebil kimliksiz (bedava) · Ücretli oda kimlikli (telefon kapısı).* Founder buldu. Sebil girişi kimliksiz kalır; kimlik yalnız Plan A/B'nin kapısında. KVKK'nın dört metni böyle korunur.
+- **"İçeriksiz sayaç lazım" (§7 logTurn) — ZATEN KURULMUŞ** (`carried`, Onondaga ölçtü): `sebil_turn` tablosu 9 Ağu'da **ayrı projede** (`ayvalik-sebil` · `ykatpdkrmiaeldgjbcqc`) kuruldu — 12 kolon, **içerik/metin kolonu 0** (`in_chars`/`out_chars` yalnız uzunluk). Akar Su şartı yapısal olarak sağlanmış. B2 bunu bilmiyordu çünkü ayrı projeden habersizdi.
+- **§6·8'in "giriş" endişesi — telefon kapısı şeması İNMİŞ** (`carried`): `sebil_kapi` canlıda hazır (HMAC parmak izi, kod 5 dk TTL, 5 yanlış = 30 dk kilit). **Karar değil, kod işi.**
+- **428 = guard'ın işi** (§4 ile tutarlı): B3'ün "428 kapanmadan para yok"u ile B2 guard adım 3–5'i **aynı çivi, iki ad.**
+
+Bu turda kendi elimle ölçemediğim (kapsam dışı: Supabase/ayrı proje) her şey yukarıda `carried`. Kanon dosyası koridora `inis-eli` ile (id 1197) inecek.
+
+---
+
 ## 0 · Önce ışıkta bırakılan boşluk (op-gate)
 
 Öbür pencerelerde iki kez *"karar belgesi hazır: `AYVALIK_AI_KARAR.md`"* dendi. Bu turda `find` ile ölçtüm: **o dosya diskte yoktu.** Diske yazmak ≠ inmek (NEREYE_NE §3), ve diske bile yazılmamıştı. Bu satırla o boşluk kapanıyor — ama içeriğin çoğu **başka pencerelerde ölçüldü, bu elde değil.** Onları `carried` damgalıyorum; kendi opumla karıştırmıyorum. Ev kaidesi: *"var ≠ doğru", "hatırladım ≠ okudum".*
