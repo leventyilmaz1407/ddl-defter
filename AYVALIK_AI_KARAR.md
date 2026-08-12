@@ -21,6 +21,8 @@ Bu turda kendi elimle ölçemediğim (kapsam dışı: Supabase/ayrı proje) her 
 
 **KARAR 12 Ağu (Founder, chat):** *"iyi bir Claude modeli en iyisi olur, zaten API var p1 için."* → **Sağlayıcı = Anthropic Claude, tek** — Nemotron 3.5 Lightning (yerel/tesisat hipotezi, ayrı asses) ve DeepSeek-V3 **beyin adayı olmaktan düştü**. p1'in mevcut Anthropic API'si yeniden kullanılacak. **HÂLÂ AÇIK — ve marj tam burada:** *hangi Claude kademesi* (haiku vs sonnet vs opus). KillTest yeni haliyle: 20 TR sağlık/hukuk sorusu × kademe, *guard-tetiklenme × token maliyeti*; `sebil_kapi` hacmiyle birlikte "kaç model/marj"ı bitirir. Üç teknik şart: (1) API anahtarı repoya girmez, env; (2) ayvalik yakımı p1'den **ayrı metrelenir** (`sebil_turn` token kolonları); (3) guard/API kullanım izni yazılı olsun (§6·3 devam ediyor).
 
+**KADEME 12 Ağu (Founder eğilimi + CW hükmü):** Founder *"opus 4.8 ya da Sonnet, en üst max effort"* dedi. Fiyat (referanstan ölçüldü, çıktı $/1M): **Opus 4.8 = 25** · **Sonnet 5 = 15** (intro 10, 31 Ağu'ya) · Haiku = 5. **Uyarı, badana yok:** *max effort = maksimum düşünme tokenı, çıktı olarak faturalanır* → opus × max × bedava-sınırsız = **en yüksek yanma**, ve max effort **428'i (uydurma atıf) azaltmaz** — onu guard + gerçek kaynak kapatır, yani yanlış kaldıraç. **CW hükmü (iki-kapı kademesi):** Sebil (bedava) = **Sonnet 5 · high** (max değil); Ücretli oda (Plan A/B) = **Opus 4.8 · xhigh/max**. Premium gelirin olduğu yere. **Karar KillTest'e:** opus-max vs sonnet-high × 20 TR sağlık/hukuk sorusu → guard-tetiklenme farkı **VE** token maliyeti; en iyi *lira-başına-428* kazanır. Operasyonel: max effort'ta `max_tokens ≥ 64K`; effort `output_config.effort`'ta (`budget_tokens` 400 verir).
+
 ---
 
 ## 0 · Önce ışıkta bırakılan boşluk (op-gate)

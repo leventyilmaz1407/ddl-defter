@@ -140,3 +140,7 @@ ACK gelen/PAC-0812-A_AYVALIK_AI_DOSYASI.md landed · 10255 B · sha256 191b8046b
 ACK AYVALIK-MODEL-KARAR-0812 · Founder chat: "iyi bir Claude modeli, p1 API'si zaten var" · DOSYA YOK · SHA YOK — CW
   Sağlayıcı = Anthropic Claude tek; Nemotron+DeepSeek beyin adayı düştü. Kademe (haiku/sonnet/opus) hâlâ açık = marj.
   AYVALIK_AI_KARAR.md errata'sına KARAR 12 Ağu satırı düştü. — CW
+
+ACK AYVALIK-KADEME-0812 · Founder chat: "opus 4.8 ya da Sonnet, en üst max effort" · DOSYA YOK · SHA YOK — CW
+  Fiyat referanstan ölçüldü (Opus4.8 çıktı $25 / Sonnet5 $15 / Haiku $5). CW hükmü: iki-kapı kademesi (sebil=Sonnet-high, oda=Opus-max), karar KillTest'e.
+  Uyarı kayıtlı: max effort 428'i azaltmaz (yanlış kaldıraç), bedava-sınırsızda en yüksek yanma. AYVALIK_AI_KARAR.md errata'sına KADEME satırı düştü. — CW
