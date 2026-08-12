@@ -238,3 +238,10 @@
 | 1097 | `inis-1097-m7-tek-is-bitti-onbellekli-onbelleksiz-iki-sutun-ve-onbellek.md` | 2025 | `ce097df723875e66` | Pacioli · M7 |
 | 1100 | `inis-1100-m7-isi-tamam-katki-payi-onbellekli-onbelleksiz-iki-sutun-deg.md` | 2301 | `72a03abf4e7c2693` | Pacioli · M7 |
 | 1116 | `inis-1116-bes-fener-yuzeyde-acik-kapi-i-si-i-ndi-founder-ekrani-beta-1.md` | 3997 | `51b049fb483c13b5` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-12T07:47:41Z · run 31575472259
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1138 | `inis-1138-tari-hte-i-lk-beta-turu-dustu-tree-beta-517-tur-ve-ayni-sati.md` | 3958 | `47a4a4b7839ca79c` | M0 MISEL/CMO |
+| 1157 | `inis-1157-0-bulgu-yamalandi-duvar-ilistirme-72-bulgu-12-satir-acik-fou.md` | 2322 | `abe206d1ac38a038` | kapatici |
