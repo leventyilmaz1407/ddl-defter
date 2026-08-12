@@ -19,6 +19,8 @@ Bu turda kendi elimle ölçemediğim (kapsam dışı: Supabase/ayrı proje) her 
 
 **B4 eklendi — `gelen/PAC-0812-A_AYVALIK_AI_DOSYASI.md`** (Pacioli·M7·KASA, 14 M7 dosyasından; CW eliyle verbatim indi, 10.255 B · sha256 `191b8046b967de9a`). B4 üç kalemi keskinleştiriyor: **VakıfBank'ta "Tekrarlı Tahsilat" VAR** (recurring — §5'te "sen kurarsın" endişemi hafifletir; oran ilan edilmiyor, asıl istek *valör*), **Stripe TR yok teyitli** (44 ülke listesinde değil), **iyzico %4,29 + 0,25 TL · 3 hafta valör**. B4'ün bir kısmı **bayat**: kaynak dosyaları ≤5 Ağu olduğu için "mimari unexamined" ve "One Plus 29€ (Plan B yok)" diyor — **ikisini de 1186 (12 Ağu) devirdi**: tek provider + Mach-1 kararlaştı, fiyat Free/29/290'a çıktı. Yani B4 envanterdir, en taze hüküm değil; taze hüküm 1186 + bu dosya.
 
+**KARAR 12 Ağu (Founder, chat):** *"iyi bir Claude modeli en iyisi olur, zaten API var p1 için."* → **Sağlayıcı = Anthropic Claude, tek** — Nemotron 3.5 Lightning (yerel/tesisat hipotezi, ayrı asses) ve DeepSeek-V3 **beyin adayı olmaktan düştü**. p1'in mevcut Anthropic API'si yeniden kullanılacak. **HÂLÂ AÇIK — ve marj tam burada:** *hangi Claude kademesi* (haiku vs sonnet vs opus). KillTest yeni haliyle: 20 TR sağlık/hukuk sorusu × kademe, *guard-tetiklenme × token maliyeti*; `sebil_kapi` hacmiyle birlikte "kaç model/marj"ı bitirir. Üç teknik şart: (1) API anahtarı repoya girmez, env; (2) ayvalik yakımı p1'den **ayrı metrelenir** (`sebil_turn` token kolonları); (3) guard/API kullanım izni yazılı olsun (§6·3 devam ediyor).
+
 ---
 
 ## 0 · Önce ışıkta bırakılan boşluk (op-gate)

@@ -136,3 +136,7 @@ ACK AYVALIK_KANON_BAGI.md (Onondaga·007, id 1197) · uploads'tan okundu, KORİD
 ACK gelen/PAC-0812-A_AYVALIK_AI_DOSYASI.md landed · 10255 B · sha256 191b8046b967de9a · Founder eliyle upload, CW verbatim indirdi · 2026-08-12 — CW
   Pacioli·M7·KASA'nın 14 M7 dosyasından derlemesi (dördüncü ayvalık toplu dosyası = B4). İçerik değişmeden gelen/'e kondu.
   AYVALIK_AI_KARAR.md errata'sına B4 işareti düştü: VakıfBank Tekrarlı Tahsilat var · Stripe TR yok · iyzico 3 hafta valör; bir kısmı ≤5 Ağu bayat, 1186 devirdi. — CW
+
+ACK AYVALIK-MODEL-KARAR-0812 · Founder chat: "iyi bir Claude modeli, p1 API'si zaten var" · DOSYA YOK · SHA YOK — CW
+  Sağlayıcı = Anthropic Claude tek; Nemotron+DeepSeek beyin adayı düştü. Kademe (haiku/sonnet/opus) hâlâ açık = marj.
+  AYVALIK_AI_KARAR.md errata'sına KARAR 12 Ağu satırı düştü. — CW
