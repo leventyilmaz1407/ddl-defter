@@ -164,3 +164,7 @@ ACK AYVALIK-290-PAKET-0812 · Founder chat: "ayvalik.ai 290 içinde p1 de includ
 ACK AYVALIK-FIYAT-REVIZE-0812 · Founder chat: "290 olmaz 29x5 olur / 29 ve 29x5 / p1 not included" · DOSYA YOK · SHA YOK — CW
   ayvalik.ai = 29€ / 145€ (29×5), p1 DAHİL DEĞİL (standalone). BIRIM_EKONOMI §0/§2/§4/§6 güncellendi: peg ~1400/~7000 ₺, ay-1 ≈ 43.500€ ≈ 2,09M ₺.
   Boşluk 10×→5× indi; 145'in içeriği tanımlanmalı (One Plus içeriği açık kalemi buraya). p1 paketi kalktı. — CW
+
+ACK AYVALIK-PLANB-ICERIK-0812 · Founder chat: "sınırsız, ve sohbet geçmişi ve bilmem" + "428 ne?" · DOSYA YOK · SHA YOK — CW
+  Plan B (145€) = sınırsız + sohbet geçmişi + (açık). KRİTİK: sohbet geçmişi = içerik saklama = Akar Su/KVKK gerilimi (B2 §4 kırmızı çizgi).
+  Çözüm iki-kapı veri rejimi (sebil içeriksiz / oda kimlikli+opt-in+silinebilir+ayrı KVKK). BIRIM_EKONOMI §0+§5② güncellendi. 428 = uydurma-atıf P0 açıklandı. — CW

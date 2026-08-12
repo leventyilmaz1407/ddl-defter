@@ -20,7 +20,7 @@
 
 **Merdiven (ayvalık standalone):**
 - **29€** = ayvalık (Haklarınız + Sağlığınız)
-- **145€** = ayvalık **premium** (5× A) — sınırsız/öncelik/geçmiş vb. *İçerik tanımı açık: 145'in 29'a kattığı ne? (`One Plus içeriği` açık kalemi buraya bağlı.)*
+- **145€** = ayvalık **premium** (5× A) — **sınırsız + sohbet geçmişi** + *(ek özellikler açık)*. ⚠️ **sohbet geçmişi = içerik saklama → Akar Su/KVKK gerilimi**, çözüm iki-kapı ayrımı (bkz. §5②).
 - **p1 (parrhesia.one)** = **ayrı ürün, ayrı satın alım** (2900€ standalone) — ayvalık paketine girmez.
 
 - **Ay-1 hedefi:** 100 × 145€ + 1000 × 29€ = **43.500 €/ay ≈ ~2,09M ₺/ay** (1100 paralı; hedef-mix Founder'ın).
@@ -86,7 +86,9 @@ EUR-anchor'la marj **kalın** — model maliyeti gelirin küçük kesri. Risk ar
 
 **① FX makası — mekanizmayla büyük ölçüde KAPANDI.** Maliyet USD, fiyat **EUR-peg** → EUR ile USD TL'ye karşı birlikte hareket eder, 6-aylık kur güncellemesi kalanı toplar. Kalan risk: iki güncelleme arası EUR/TRY kayması (dönemsel, sınırlı). ⚠️ **Kur ≠ enflasyon çifte sayma:** EUR-peg zaten model maliyetini (USD/EUR) taşıyor → **kur güncellemesi = EUR-peg tazeleme; enflasyon güncellemesi = yalnız TL-yerel giderler** (personel/ofis/yerel). İki gerekçe ayrı, üst üste binmesin.
 
-**② 290 ₺ ≠ 29 €.** 2026'da 29 € ≈ 1200-1500 ₺ → 290 ₺ bilinçli derin yerel indirim. Ayvalıklı için doğru; **turist/AB kartı çok fazlasını öderdi** → ayrı EUR fiyatı (MoR/telefon-kapısı) tabloyu bozmadan ek gelir.
+**② 🔴 "Sohbet geçmişi" (Plan B) = içerik saklama = Akar Su/KVKK gerilimi.** ANAYASA §2 *"saklamazsın, hatırlamazsın"* + `sebil_turn` içeriksiz + KVKK dört metni *"saklanmaz"*. Sohbet geçmişi = konuşma içeriği saklamak = B2 §4'ün kırmızı çizgisi (`prompt_raw`+`response_raw`).
+**Çözüm — iki-kapı veri rejimi:** Sebil = içeriksiz, Akar Su korunur, dört metin aynen doğru. Ücretli oda (Plan B) = **kimlikli + opt-in + ayrı geçmiş deposu + kendi KVKK aydınlatması + kullanıcı-malı/silinebilir** (unutulma hakkı). Üç şart: ① ANAYASA §2 sebil'e daraltılır (oda opt-in istisna); ② geçmiş kullanıcının, silinebilir; ③ oda için ayrı KVKK metni — sebilin dört metnine dokunmaz.
+**"Sınırsız" notu:** routing'le normal kullanım ucuz; ama sınırsız tavanı kaldırır → **kota değil, kötüye-kullanım hız sınırı** (bot/scrape'i keser, insanı kesmez).
 
 ---
 
