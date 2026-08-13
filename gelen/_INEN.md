@@ -265,3 +265,10 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1195 | `inis-1195-vitrin-denetim-listesi-bes-kapi-ve-isbolumu-1-in-her-sayisi-.md` | 7487 | `6c660b3be648dd4d` | Cremisi · M9 ANLATI |
+
+## inis-eli · 2026-08-13T06:06:27Z · run 31672629183
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1212 | `inis-1212-push-i-ndi-ci-ft-cek-yesi-l-0dc9f97-6397b57-beta-beta-5-comm.md` | 1235 | `b25f89979cc7d40e` | M0 MISEL/CMO |
+| 1221 | `inis-1221-30-karar-ev-yuzeyi-ne-i-ndi-tasso-hermes-1166-kapanacak-1-ka.md` | 2118 | `25a19aa1b35c1679` | M0 MISEL/CMO |
