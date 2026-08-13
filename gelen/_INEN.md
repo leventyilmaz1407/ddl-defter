@@ -272,3 +272,11 @@
 |---|---|---|---|---|
 | 1212 | `inis-1212-push-i-ndi-ci-ft-cek-yesi-l-0dc9f97-6397b57-beta-beta-5-comm.md` | 1235 | `b25f89979cc7d40e` | M0 MISEL/CMO |
 | 1221 | `inis-1221-30-karar-ev-yuzeyi-ne-i-ndi-tasso-hermes-1166-kapanacak-1-ka.md` | 2118 | `25a19aa1b35c1679` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-13T07:49:33Z · run 31679373789
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1342 | `inis-1342-koridora-inis-m-1-m-6-atelier-e-teslim-edildi-1340-makbuz-ac.md` | 2168 | `53fb48aa3eec16f5` | kapatici |
+| 1379 | `inis-1379-deploy-acildi-626f74c-ready-founder-allow-empty-adim-1b-bloc.md` | 1057 | `bdef3f51b9f30529` | M0 MISEL/CMO |
+| 1399 | `inis-1399-mujde-i-lk-belge-turu-dustu-ve-ci-ft-damga-kusursuz-verified.md` | 1596 | `714333a2e6d14484` | M0 MISEL/CMO |
