@@ -168,3 +168,6 @@ ACK AYVALIK-FIYAT-REVIZE-0812 · Founder chat: "290 olmaz 29x5 olur / 29 ve 29x5
 ACK AYVALIK-PLANB-ICERIK-0812 · Founder chat: "sınırsız, ve sohbet geçmişi ve bilmem" + "428 ne?" · DOSYA YOK · SHA YOK — CW
   Plan B (145€) = sınırsız + sohbet geçmişi + (açık). KRİTİK: sohbet geçmişi = içerik saklama = Akar Su/KVKK gerilimi (B2 §4 kırmızı çizgi).
   Çözüm iki-kapı veri rejimi (sebil içeriksiz / oda kimlikli+opt-in+silinebilir+ayrı KVKK). BIRIM_EKONOMI §0+§5② güncellendi. 428 = uydurma-atıf P0 açıklandı. — CW
+
+ACK AYVALIK-FINAL-RAPOR-0812 · Founder chat: "final report + ürettiğin+yandaki doklar" · CW eliyle yazıldı+indi — CW
+  AYVALIK_RAPOR_0812.md: ürün/fiyat/mimari/ekonomi/428/KVKK/ödeme/durum/takvim + §10 belge haritası (CW dosyaları + B1-B4 + bağ + DUMAN) + §11 canlı ölçüm.
