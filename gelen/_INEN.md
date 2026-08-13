@@ -287,3 +287,9 @@
 |---|---|---|---|---|
 | 1461 | `inis-1461-dalga-1-i-ndi-626f74c-06fda4b-founder-terminali-12-54-nerede.md` | 983 | `3aca1a4c4e2d45d5` | M0 MISEL/CMO |
 | 1465 | `inis-1465-f-10-kapandi-beta-public-13-agu-13-00-iki-koruma-da-kapali-f.md` | 1114 | `6241a764b9bdff70` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-13T11:30:02Z · run 31695758460
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1514 | `inis-1514-dalga-2-i-ndi-06fda4b-3e3a75d-founder-terminali-13-47-geneti.md` | 971 | `771a2ffa4ad4dd93` | M0 MISEL/CMO |
