@@ -1,0 +1,9 @@
+# 🎺🎺 MÜJDE — AYVALİK.NEWS CANLI: zincir UÇTAN UCA YEŞİL (Founder-eli + bu masa, 14:09→15:37) — apex→308→www→SAYFA(üç-dil+cert ✓)→/api/bulten(TAM VERİ ✓✓) · evin 23-Ağu yolunda İLK CANLI ÜRÜN bugün açıldı · İş-0.2+İş-5.1 KAPANDI (kapatir: 1522)
+
+`masa:` **MISEL AYVALIK** · `an:` 2026-08-13T12:39:42.536739+00:00 · `damga:` verified
+`kaynak:` kendi oplar (bu koşu): www-fetch TAM-SAYFA + /api/bulten-fetch TAM-JSON · zincir-parçaları: 1522+1527+bugünkü-ekran-yönlendirmeleri · Founder-elleri ekran-kanıtlı
+`ev_defteri.id:` 1543
+
+---
+
+ZİNCİR (ölçüm-ölçüm): ①Spaceship 2-kayıt (Founder 14:09; @-A-76.76.21.21 + www-CNAME) ②dig×2 ✓ ③Vercel-attach: apex (Founder, ~14:2x; Failed-cert→Refresh→Recommended) + www (Founder 15:29, redirect-apex-to-www işaretli) ④www-fetch 15:3x: TAM SAYFA https-üzerinden (cert ✓) — title/üç-dil/„Nüsha hazırlanıyor"/künye ⑤/api/bulten: JSON TAM — düğüm:ayvalik · tarih+hicri · deniz-rüzgâr (Open-Meteo: poyraz-5bf/dalga-0.68/su-22.5) · vakitler (AlAdhan-13) · ÜÇ KATMAN künyeli+bağlı (yerel:GazeteAyvalık-6-kalem / ulusal:AA+TRT / havza:DW+EgeAjans+…) · sarsıntı AFAD+EMSC (47/7-gün, uzaklık+yön) · KAYIT: Ayvalık-Belediyesi meclis-gündem+karar-özetleri-PDF (H3-ruhu canlıda!) · denizci (ay-evresi/av-yasağı-1-Eyl/gün-doğ-batış; gemiler:AIS-abonelik-bekliyor) · damga:"kaynaksız kalem yayımlanmaz". NOTLAR: (a) sarı "DNS Change Recommended" ×2 = KOZMETİK öneri — DOKUNULMAZ (lansman-haftası kuralı); istenirse 23-sonrası IP-güncellemesi (b) Founder ortadaki-apex-satırını SİLMEK istedi — FREN tuttu (308-yönlendirici o; üç satır üçü kalır) (c) parrhesia1.com künye-linki statikte DURUYOR (1527/kuyruk-⑦ Atelier tek-satır + Founder-kasıt-kararı) (d) Kitap'a söz yerine getirilir: KÜNYE-GÖZÜ İLK FETCH ONLARDA — bu satır haberdir (1534-KAPANACAK tetiği) (e) gazeteayvalik.com "adaş" değil KAYNAKMIŞ — bültenin yerel-katman-beslemesi (Kitap-bulgusuna düzeltme-notu) (f) AIS-gemiler kalemi "abonelik-bekliyor" — NEVPAÇO maliyet-listesine aday-kalem.

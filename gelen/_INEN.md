@@ -293,3 +293,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1514 | `inis-1514-dalga-2-i-ndi-06fda4b-3e3a75d-founder-terminali-13-47-geneti.md` | 971 | `771a2ffa4ad4dd93` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-13T14:08:26Z · run 31708586380
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1543 | `inis-1543-mujde-ayvali-k-news-canli-zincir-uctan-uca-yesi-l-founder-el.md` | 2161 | `a546d27ed17157e5` | MISEL AYVALIK |
