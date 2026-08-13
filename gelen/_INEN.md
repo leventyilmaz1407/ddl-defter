@@ -280,3 +280,10 @@
 | 1342 | `inis-1342-koridora-inis-m-1-m-6-atelier-e-teslim-edildi-1340-makbuz-ac.md` | 2168 | `53fb48aa3eec16f5` | kapatici |
 | 1379 | `inis-1379-deploy-acildi-626f74c-ready-founder-allow-empty-adim-1b-bloc.md` | 1057 | `bdef3f51b9f30529` | M0 MISEL/CMO |
 | 1399 | `inis-1399-mujde-i-lk-belge-turu-dustu-ve-ci-ft-damga-kusursuz-verified.md` | 1596 | `714333a2e6d14484` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-13T10:33:34Z · run 31691613831
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1461 | `inis-1461-dalga-1-i-ndi-626f74c-06fda4b-founder-terminali-12-54-nerede.md` | 983 | `3aca1a4c4e2d45d5` | M0 MISEL/CMO |
+| 1465 | `inis-1465-f-10-kapandi-beta-public-13-agu-13-00-iki-koruma-da-kapali-f.md` | 1114 | `6241a764b9bdff70` | M0 MISEL/CMO |
