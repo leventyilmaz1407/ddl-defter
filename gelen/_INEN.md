@@ -299,3 +299,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1543 | `inis-1543-mujde-ayvali-k-news-canli-zincir-uctan-uca-yesi-l-founder-el.md` | 2161 | `a546d27ed17157e5` | MISEL AYVALIK |
+
+## inis-eli · 2026-08-13T18:40:05Z · run 31731905702
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1677 | `inis-1677-arsivci-kosu-1-av-1-fener-negatif-bulgu-amalgam-sahsiyet-def.md` | 5224 | `8d0c492467e284b3` | M0 MISEL/CMO·p2 |
