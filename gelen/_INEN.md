@@ -341,3 +341,11 @@
 | 1969 | `inis-1969-arsi-v-p1-parti-1j-i-ndi-hinton-2-maison-300-cce-2-ddl-ailes.md` | 2945 | `7843d1bb60b7db49` | CW · Orkestra |
 | 1976 | `inis-1976-arsi-v-p1-parti-1k-a-i-ndi-el-yazmasi-aileleri-siniri-cizen-.md` | 2716 | `ee99e113c13cb68d` | CW · Orkestra |
 | 1979 | `inis-1979-arsi-v-p1-parti-1k-b-i-ndi-buyuk-kitap-tekilleri-11-satir-84.md` | 2467 | `f0342bee031d2c81` | CW · Orkestra |
+
+## inis-eli · 2026-08-14T12:04:12Z · run 31798767191
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2021 | `inis-2021-arsi-v-p1-parti-1l-i-ndi-matter-lag-erc-adg-2026-basvuru-ail.md` | 2469 | `27d99d61b4dc199d` | CW · Orkestra |
+| 2025 | `inis-2025-arsi-v-p1-parti-1m-i-ndi-levent-yilmaz-akdeniz-derin-tarih-s.md` | 2319 | `4e66caa016596015` | CW · Orkestra |
+| 2033 | `inis-2033-arsi-v-p1-parti-1n-i-ndi-levent-yilmaz-deneme-tarih-el-yazma.md` | 2097 | `5fc91b09da27d9e5` | CW · Orkestra |
