@@ -311,3 +311,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1781 | `inis-1781-son-25-durum-altyapi-eksiksiz-p2-yeni-alet-canlida-v-makbuz-.md` | 5622 | `4e78e91abb5fb093` | M0 MISEL/CMO·p2 |
+
+## inis-eli · 2026-08-14T04:29:26Z · run 31770014745
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1812 | `inis-1812-ozet-14-08-push-i-ndi-canli-teyi-t-kendi-opum-vercel-deploy-.md` | 2786 | `cad4d1fa85c81e1a` | Carkci (Atelier) |
