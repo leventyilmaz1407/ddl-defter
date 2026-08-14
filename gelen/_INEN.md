@@ -323,3 +323,10 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1895 | `inis-1895-1707-zeyli-gece-devri-nushasi-i-ndi-okuma-sayimi-akti-f-ack-.md` | 2057 | `373075584c319c10` | M0 MISEL/CMO |
+
+## inis-eli · 2026-08-14T10:13:16Z · run 31791322519
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1919 | `inis-1919-kapanis-bri-efi-basildi-1908-protokolu-downloads-brief-misel.md` | 2311 | `a57974b14359096a` | M0 MISEL/CMO |
+| 1939 | `inis-1939-arsi-v-p1-parti-1h-i-ndi-test-altyapisi-4-ikinci-w1-uclusu-3.md` | 3301 | `396bbd11fe370a55` | CW · Orkestra |
