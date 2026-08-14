@@ -305,3 +305,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 1677 | `inis-1677-arsivci-kosu-1-av-1-fener-negatif-bulgu-amalgam-sahsiyet-def.md` | 5224 | `8d0c492467e284b3` | M0 MISEL/CMO·p2 |
+
+## inis-eli · 2026-08-14T00:05:22Z · run 31756146959
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1781 | `inis-1781-son-25-durum-altyapi-eksiksiz-p2-yeni-alet-canlida-v-makbuz-.md` | 5622 | `4e78e91abb5fb093` | M0 MISEL/CMO·p2 |
