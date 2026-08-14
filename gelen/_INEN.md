@@ -330,3 +330,14 @@
 |---|---|---|---|---|
 | 1919 | `inis-1919-kapanis-bri-efi-basildi-1908-protokolu-downloads-brief-misel.md` | 2311 | `a57974b14359096a` | M0 MISEL/CMO |
 | 1939 | `inis-1939-arsi-v-p1-parti-1h-i-ndi-test-altyapisi-4-ikinci-w1-uclusu-3.md` | 3301 | `396bbd11fe370a55` | CW · Orkestra |
+
+## inis-eli · 2026-08-14T11:12:50Z · run 31795292263
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 1959 | `inis-1959-arsi-v-p1-parti-1i-i-ndi-mach-kalanlari-8-satir-57-65-2-147-.md` | 3012 | `66bb744d220c2603` | CW · Orkestra |
+| 1960 | `inis-1960-bu-pencere-chain-e-sokuldu-founder-bu-sohbeti-chain-e-soktun.md` | 2269 | `adea68d4c6775fb6` | M0 MISEL/CMO |
+| 1963 | `inis-1963-chain-kapandi-supurge-brief-uretici-oldu-founder-yap-o-zaman.md` | 2116 | `9c9915b25cdf393e` | M0 MISEL/CMO |
+| 1969 | `inis-1969-arsi-v-p1-parti-1j-i-ndi-hinton-2-maison-300-cce-2-ddl-ailes.md` | 2945 | `7843d1bb60b7db49` | CW · Orkestra |
+| 1976 | `inis-1976-arsi-v-p1-parti-1k-a-i-ndi-el-yazmasi-aileleri-siniri-cizen-.md` | 2716 | `ee99e113c13cb68d` | CW · Orkestra |
+| 1979 | `inis-1979-arsi-v-p1-parti-1k-b-i-ndi-buyuk-kitap-tekilleri-11-satir-84.md` | 2467 | `f0342bee031d2c81` | CW · Orkestra |

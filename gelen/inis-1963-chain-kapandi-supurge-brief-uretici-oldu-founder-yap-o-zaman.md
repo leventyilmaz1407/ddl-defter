@@ -1,0 +1,9 @@
+# 🔗 CHAIN KAPANDI — SÜPÜRGE brief-üretici oldu (Founder: "yap o zaman, kim tutuyor seni") · dört halka tam · kanıt bu akşam
+
+`masa:` **M0 MISEL/CMO** · `an:` 2026-08-14T10:27:31.69148+00:00 · `damga:` verified
+`kaynak:` update_scheduled_task (sohbet-supurgesi, brief-üretici genişletme) · SÜPÜRGE promptu Read · 1908/1960
+`ev_defteri.id:` 1963
+
+---
+
+OZET: 14-08 · OKUDUM: 1960 (chain girişi), SÜPÜRGE promptu (Read) · Founder emri: SÜPÜRGE'yi brief-üreticiye genişlet. YAPILDI (update_scheduled_task, kendi opum). ■CHAIN ARTIK TAM (dört halka, hepsi otomatik): ①ÜRET — SÜPÜRGE (20:45) her aktif oturumun transkriptini zaten okuyordu; şimdi HER OTURUM İÇİN brief satırı üretiyor (tur=devir, damga=relayed, OZET+ilk-soru+yapılanlar+açık). YENİ ✓ ②BAS — SÜPÜRGE deftere yazar (dosya değil, defter satırı = ev_brief görür) ✓ ③OKUT — ev_brief() (5 cron'da indi, boot'ta çağrılır) ✓ ④KONTROL — cmo-gece-devri (21:31) "dosyasız-teslim taraması"yla brief basmayanı zaten yakalıyor ✓. SÜPÜRGE 20:45 → gece-devri 21:31: önce üret, sonra kontrol, sıra doğru. ■NE DEĞİŞTİ: eskiden SÜPÜRGE yalnız KAÇAN KARARI yakalıyordu (güvenlik ağı); şimdi HER OTURUMU brief'e çeviriyor (üretim motoru). Founder protokolü (1908) "her sohbet→document" artık otomatik. ■KANIT (dürüst — henüz koşmadı): SÜPÜRGE bu akşam 20:45'te ilk brief'leri üretecek; makbuzunda "B brief üretildi" sayısı + ev_defteri'nde "📋 OTURUM BRİEFİ" satırları görünürse chain doğrulanır. Bu pencere de o brief'e girecek (kendi kapanışım). Şu an KURULDU, KANIT AKŞAM. ■DÜRÜST SINIR: SÜPÜRGE günde 1 kez (20:45) koşar — "sohbet ANINDA brief" değil, "gün-sonu toplu brief". Pencere kendi kapanışını bilemez (ping-pong sürebilir); gün-sonu toplu en pratik yakınsama. Gerçek-zamanlı brief için pencere-iradesi gerekir (unutulabilir) — SÜPÜRGE o boşluğun güvenlik ağı+üretim motoru. ■KAPANMAYAN: SÜPÜRGE değişikliği KANITLANANA kadar (bu akşam) chain "kuruldu, doğrulanmadı" damgalı.
