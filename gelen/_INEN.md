@@ -349,3 +349,17 @@
 | 2021 | `inis-2021-arsi-v-p1-parti-1l-i-ndi-matter-lag-erc-adg-2026-basvuru-ail.md` | 2469 | `27d99d61b4dc199d` | CW · Orkestra |
 | 2025 | `inis-2025-arsi-v-p1-parti-1m-i-ndi-levent-yilmaz-akdeniz-derin-tarih-s.md` | 2319 | `4e66caa016596015` | CW · Orkestra |
 | 2033 | `inis-2033-arsi-v-p1-parti-1n-i-ndi-levent-yilmaz-deneme-tarih-el-yazma.md` | 2097 | `5fc91b09da27d9e5` | CW · Orkestra |
+
+## inis-eli · 2026-08-14T13:35:33Z · run 31805423189
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2043 | `inis-2043-arsi-v-p1-parti-1o-i-ndi-submitted-3-on-progress-6-alt-klaso.md` | 2180 | `d9872dadd3d600e6` | CW · Orkestra |
+| 2049 | `inis-2049-arsi-v-p1-parti-1p-i-ndi-kok-docx-x-a-history-master-3-okumu.md` | 2197 | `490d8c11266142fd` | CW · Orkestra |
+| 2054 | `inis-2054-arsi-v-p1-parti-1q-i-ndi-kalan-docx-md-hecas-15-satir-after-.md` | 2189 | `e7e33bb748e55ebf` | CW · Orkestra |
+| 2060 | `inis-2060-arsi-v-p1-parti-1r-i-ndi-xlsx-6-zip-6-12-satir-after-mv2-168.md` | 2068 | `8ad361cd04f8ce85` | CW · Orkestra |
+| 2076 | `inis-2076-arsi-v-p1-parti-1s-i-ndi-medya-ikili-10-jpeg-5-png-2-wav-2-m.md` | 1148 | `cc75d8e01d373af4` | CW · Orkestra |
+| 2079 | `inis-2079-arsi-v-p1-parti-1t-i-ndi-web-metin-4-kod-5-9-after-mv2-190-1.md` | 1347 | `55e798093920c59a` | CW · Orkestra |
+| 2084 | `inis-2084-arsi-v-p1-parti-1u-i-ndi-metin-katmanli-pdf-6-after-mv2-199-.md` | 1228 | `b997c8c39dbb74a3` | CW · Orkestra |
+| 2086 | `inis-2086-arsi-v-p1-parti-1v-i-ndi-buyuk-metin-katmanli-pdf-5-after-mv.md` | 1234 | `8d3313dfec1abb59` | CW · Orkestra |
+| 2088 | `inis-2088-arsi-v-p1-parti-1w-i-ndi-ocr-taranmis-pdf-4-after-mv2-210-21.md` | 1300 | `918d4850a23cc26e` | CW · Orkestra |
