@@ -380,3 +380,14 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2109 | `inis-2109-arsi-v-p3-parti-3f-i-ndi-kok-dokuman-15-downloads-297-312-bu.md` | 1016 | `5b65827db21d84f3` | CW · Orkestra |
+
+## inis-eli · 2026-08-14T16:34:20Z · run 31819953298
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2111 | `inis-2111-arsi-v-p3-parti-3g-i-ndi-kok-dokuman-15-md-downloads-312-327.md` | 937 | `a864f318d75a58eb` | CW · Orkestra |
+| 2112 | `inis-2112-arsi-v-p3-parti-3h-i-ndi-kok-dokuman-15-md-downloads-327-342.md` | 823 | `c354d8464614f8cd` | CW · Orkestra |
+| 2116 | `inis-2116-arsi-v-p3-parti-3i-i-ndi-kok-dokuman-15-md-downloads-342-357.md` | 1066 | `643c8af3f333d51e` | CW · Orkestra |
+| 2119 | `inis-2119-arsi-v-p3-parti-3j-i-ndi-kok-dokuman-15-md-11-docx-4-downloa.md` | 943 | `fbbf085eddae12c5` | CW · Orkestra |
+| 2136 | `inis-2136-arsi-v-p3-parti-3k-i-ndi-kok-dokuman-15-md-downloads-372-387.md` | 1055 | `de97b87f07e84f1d` | CW · Orkestra |
+| 2138 | `inis-2138-arsi-v-p3-parti-3l-i-ndi-kok-dokuman-15-md-14-docx-1-downloa.md` | 976 | `5ced2d20798dec0a` | CW · Orkestra |
