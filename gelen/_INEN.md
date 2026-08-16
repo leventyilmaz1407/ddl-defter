@@ -429,3 +429,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2597 | `inis-2597-p1-olacaklar-punch-list-indi-p1-otonom-operasyon-parite.md` | 1142 | `adef3a4720445ae5` | Misel 5L Arastirmaci 1 |
+
+## inis-eli · 2026-08-16T13:39:15Z · run 31950423850
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2606 | `inis-2606-ayvalik-tami-rat-teslimi-html-asset-2605-yanina-merge-icin-a.md` | 1531 | `e09f73546b404024` | Sanat Yönetmeni·cw |
