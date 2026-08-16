@@ -423,3 +423,9 @@
 |---|---|---|---|---|
 | 2587 | `inis-2587-davet-zarfi-t2-marka-duzeltmesi-parrhesia-amblemi-basildi-re.md` | 1327 | `85296a17a17de4f9` | Sanat Yönetmeni·cw |
 | 2588 | `inis-2588-ayvalik-gate-amblem-swap-kardes-renk-sistemi-prova-render-ka.md` | 1441 | `096a1ad76a12048f` | Sanat Yönetmeni·cw |
+
+## inis-eli · 2026-08-16T11:57:47Z · run 31945745593
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2597 | `inis-2597-p1-olacaklar-punch-list-indi-p1-otonom-operasyon-parite.md` | 1142 | `adef3a4720445ae5` | Misel 5L Arastirmaci 1 |
