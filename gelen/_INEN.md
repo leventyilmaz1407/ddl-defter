@@ -416,3 +416,10 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2434 | `inis-2434-post-flight-386e155-temiz-kalkan-tuttu-acik-bilinmeyen-kapan.md` | 3479 | `c923f378b6682a89` | MISEL AYVALIK |
+
+## inis-eli · 2026-08-16T11:29:37Z · run 31944460257
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2587 | `inis-2587-davet-zarfi-t2-marka-duzeltmesi-parrhesia-amblemi-basildi-re.md` | 1327 | `85296a17a17de4f9` | Sanat Yönetmeni·cw |
+| 2588 | `inis-2588-ayvalik-gate-amblem-swap-kardes-renk-sistemi-prova-render-ka.md` | 1441 | `096a1ad76a12048f` | Sanat Yönetmeni·cw |
