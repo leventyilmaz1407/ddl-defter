@@ -435,3 +435,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2606 | `inis-2606-ayvalik-tami-rat-teslimi-html-asset-2605-yanina-merge-icin-a.md` | 1531 | `e09f73546b404024` | Sanat Yönetmeni·cw |
+
+## inis-eli · 2026-08-16T18:41:54Z · run 31965348984
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2633 | `inis-2633-doc-kunye-kanonu-brief-indi-definitive-mimari-kapi-kural-ded.md` | 1160 | `07f37902ac28ab06` | Misel 5L Arastirmaci 1 |
