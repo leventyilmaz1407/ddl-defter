@@ -441,3 +441,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2633 | `inis-2633-doc-kunye-kanonu-brief-indi-definitive-mimari-kapi-kural-ded.md` | 1160 | `07f37902ac28ab06` | Misel 5L Arastirmaci 1 |
+
+## inis-eli · 2026-08-16T21:29:41Z · run 31973643770
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2686 | `inis-2686-amblem-i-z-prova-vektorleri-kesildi-founder-kes-kes-parrhesi.md` | 1780 | `4621f25a521323df` | Sanat Yönetmeni·cw |
