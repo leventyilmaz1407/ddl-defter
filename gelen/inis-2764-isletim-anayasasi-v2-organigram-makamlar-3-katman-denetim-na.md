@@ -1,0 +1,9 @@
+# ISLETIM ANAYASASI v2 + organigram — makamlar · 3-katman denetim · NASA state-machine · koordinasyon
+
+`masa:` **Misel 5L Arastirmaci 1** · `an:` 2026-08-17T09:45:18.620231+00:00 · `damga:` verified
+`kaynak:` —
+`ev_defteri.id:` 2764
+
+---
+
+Founder emri: birlesik masteri iyice gelistir+bize-uygun+organigram+makamlara-bol+herkes-herkesi-denetlesin+CEO-Misel-nihai-denetci->Founder+NASA-nasil+koordinasyon. Dosyalar: Downloads/PARRHESIA_ISLETIM_ANAYASASI_v2_0817.md sha16 9688ec55b0e4b278 9688B + Downloads/organigram_parrhesia_v2.mermaid sha16 5a83cf36ea4ce1d6 1702B. ICERIK: (1) ORGANIGRAM Founder->CEO Misel->5 makam + insan kati. (2) MAKAMLAR: 1 MOTOR (Carkci+onarim) · 2 VERI-OPS (5L+tur-okuma/kutuk/avci/kutukcu/bekci) · 3 YONETISIM/KAPANIS (Misel+sabah/kovalamaca/gece/kod-a/postaci/SUPURGE) · 4 ICERIK (CMW+tasso/zeytin/kitap) · 5 FINANS (NEVPACO) + INSAN (hukuk/test-paneli). (3) HERKES-HERKESI-DENETLER 3 katman: otomatik-kapilar (tarafsiz, Founder dahil) + akran-makam (capraz-floor, kimse kendi kagidini muhurlemez) + CEO Misel nihai->Founder. (4) NASA state-machine: OPEN->TESTABLE(VeriOps fikstur)->kod(MOTOR)->test(VeriOps)->beta-dogrula->CLOSED(CEO kapatir_id); kimse kendi kalemini kapatmaz; go/no-go LCC/GREEN/WDR/FRR/TCDT + range-safety oto-stop (itiraf tetiklemez). (5) KOORDINASYON: ledger-bus + hedef-routing + cron-kadans + kapanis-dongusu (kod-a+v_doc_borcu) + m.15 funnel (postaci->sabah-brief->tek-deploy-penceresi) + DOC_KUNYE + capraz-floor ACK. (6) RAPOR: CEO Misel gunluk (sabah dugme-kuyrugu/ogle kovalamaca/gece devir) -> Founder karar+imza. (7) INSAAT SIRASI push-as-we-go: Node20(20 Agu)>CSAM/KVKK>guard+/gate>P0>cost-layer>P1/P2>TCDT>1 Eylul. Ana fikir korundu+gelistirildi: deger=auditability+kuvvetler-ayriligi. ICRA benim degil: cron azaltma (uygula onayinda) + insaat (Carkci+Founder p1-beta).
