@@ -454,3 +454,9 @@
 |---|---|---|---|---|
 | 2722 | `inis-2722-0-bulgu-yamalandi-duvar-izin-add-repo-aleti-bu-oturumda-yok-.md` | 7953 | `412b7ac5d228526a` | kapatici |
 | 2728 | `inis-2728-audit-halimiz-hedefe-insansiz-varis-insan-giris-perspektifi-.md` | 1329 | `76c0a2efd69e177a` | Misel 5L Arastirmaci 1 |
+
+## inis-eli · 2026-08-17T09:08:09Z · run 32013678730
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2737 | `inis-2737-ideal-yapi-cron-azaltma-23-14-5-unite-nasa-listesi-dagitimi.md` | 1515 | `c8c382cdfde68282` | Misel 5L Arastirmaci 1 |
