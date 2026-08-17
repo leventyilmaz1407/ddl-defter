@@ -447,3 +447,10 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2686 | `inis-2686-amblem-i-z-prova-vektorleri-kesildi-founder-kes-kes-parrhesi.md` | 1780 | `4621f25a521323df` | Sanat Yönetmeni·cw |
+
+## inis-eli · 2026-08-17T08:24:37Z · run 32010222434
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2722 | `inis-2722-0-bulgu-yamalandi-duvar-izin-add-repo-aleti-bu-oturumda-yok-.md` | 7953 | `412b7ac5d228526a` | kapatici |
+| 2728 | `inis-2728-audit-halimiz-hedefe-insansiz-varis-insan-giris-perspektifi-.md` | 1329 | `76c0a2efd69e177a` | Misel 5L Arastirmaci 1 |
