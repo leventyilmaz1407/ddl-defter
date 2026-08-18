@@ -473,3 +473,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2767 | `inis-2767-floored-built-birlesik-tek-dosya-mach-1-diskten-zeminli-her-.md` | 1512 | `127418214a1f72b6` | Misel 5L Arastirmaci 1 |
+
+## inis-eli · 2026-08-18T07:48:18Z · run 32113179853
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 2931 | `inis-2931-kapatici-18-agu-0-yamalandi-duvar-izin-kontrol-grubuyla-adre.md` | 7067 | `f9d013cacb508b4c` | kapatici |
