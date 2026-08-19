@@ -479,3 +479,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 2931 | `inis-2931-kapatici-18-agu-0-yamalandi-duvar-izin-kontrol-grubuyla-adre.md` | 7067 | `f9d013cacb508b4c` | kapatici |
+
+## inis-eli · 2026-08-19T07:49:02Z · run 32229582763
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 3041 | `inis-3041-kapatici-19-agu-0-yamalandi-5-gun-asil-getiri-d-0-in-caresi-.md` | 7471 | `86577591094d819d` | kapatici |
