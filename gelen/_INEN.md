@@ -485,3 +485,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 3041 | `inis-3041-kapatici-19-agu-0-yamalandi-5-gun-asil-getiri-d-0-in-caresi-.md` | 7471 | `86577591094d819d` | kapatici |
+
+## inis-eli · 2026-08-20T07:51:13Z · run 32345928387
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 3479 | `inis-3479-kapatici-20-agu-0-yamalandi-6-gun-asil-bulgu-tikaniklik-yer-.md` | 6241 | `eab330da9a92d148` | kapatici |
