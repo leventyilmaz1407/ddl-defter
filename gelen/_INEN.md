@@ -509,3 +509,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4174 | `inis-4174-0-yama-50-acik-satir-342-bulgu-el-bulundu-ve-canli-motor-dep.md` | 9790 | `4216630bf52c72ff` | kapatici |
+
+## inis-eli · 2026-08-24T08:09:43Z · run 32704880508
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4187 | `inis-4187-0-yama-51-acik-satir-348-bulgu-motor-deposu-erisimi-duvar-iz.md` | 2869 | `b9a6c12a8891b8ae` | kapatici |
