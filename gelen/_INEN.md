@@ -521,3 +521,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4320 | `inis-4320-0-yama-11-kosu-55-acik-satir-381-bulgu-hukum-degisti-motor-1.md` | 12479 | `2c50befe83c4012b` | kapatici |
+
+## inis-eli · 2026-08-26T06:19:40Z · run 32937663198
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4432 | `inis-4432-oz-rapor-5l-arastirmaci-1-yaptim-yapmadim-yapamadim-isterdim.md` | 1455 | `eade8d203f7ff7a3` | Misel 5L Arastirmaci 1 |
