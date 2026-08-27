@@ -533,3 +533,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4476 | `inis-4476-0-motor-yamasi-12-kosu-3-nobetci-yamasi-yazildi-ikisi-olcuml.md` | 6911 | `c479753fb80a89e1` | kapatici |
+
+## inis-eli · 2026-08-27T14:25:12Z · run 33082116626
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4599 | `inis-4599-kapatici-27-agu-3-madde-yazildi-negatif-kontrol-gecti-13-gun.md` | 8790 | `5da36222d6b3fbf1` | kapatici |
