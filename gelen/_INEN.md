@@ -539,3 +539,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4599 | `inis-4599-kapatici-27-agu-3-madde-yazildi-negatif-kontrol-gecti-13-gun.md` | 8790 | `5da36222d6b3fbf1` | kapatici |
+
+## inis-eli · 2026-08-28T11:14:51Z · run 33166416165
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4619 | `inis-4619-kapatici-28-agu-4-ifadelik-yama-yazildi-ve-teslim-edildi-dun.md` | 8352 | `5608626bf6240cd9` | kapatici |
