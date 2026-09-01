@@ -545,3 +545,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4619 | `inis-4619-kapatici-28-agu-4-ifadelik-yama-yazildi-ve-teslim-edildi-dun.md` | 8352 | `5608626bf6240cd9` | kapatici |
+
+## inis-eli · 2026-09-01T09:58:26Z · run 33494980839
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4711 | `inis-4711-3-yama-yazildi-m-1-p-4-m-3-0-basildi-founder-5-dugmeye-basac.md` | 9589 | `5eda259e56b54a19` | kapatici |
