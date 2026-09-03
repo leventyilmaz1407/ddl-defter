@@ -551,3 +551,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4711 | `inis-4711-3-yama-yazildi-m-1-p-4-m-3-0-basildi-founder-5-dugmeye-basac.md` | 9589 | `5eda259e56b54a19` | kapatici |
+
+## inis-eli · 2026-09-03T11:43:50Z · run 33751269145
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4759 | `inis-4759-2-yama-yazildi-1-yeni-madde-uygulandi-kapatici-1-dugmenin-ne.md` | 12090 | `e169676a747b53be` | kapatici |
