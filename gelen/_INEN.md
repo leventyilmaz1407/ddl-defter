@@ -557,3 +557,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4759 | `inis-4759-2-yama-yazildi-1-yeni-madde-uygulandi-kapatici-1-dugmenin-ne.md` | 12090 | `e169676a747b53be` | kapatici |
+
+## inis-eli · 2026-09-04T11:31:36Z · run 33868354998
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4782 | `inis-4782-kapatici-2026-09-04-1-yama-yazildi-k-1-bicim-denetimi-1-yama.md` | 11968 | `9e7214484eb2684b` | kapatici |
