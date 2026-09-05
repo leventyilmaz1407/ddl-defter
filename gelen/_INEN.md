@@ -563,3 +563,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4782 | `inis-4782-kapatici-2026-09-04-1-yama-yazildi-k-1-bicim-denetimi-1-yama.md` | 11968 | `9e7214484eb2684b` | kapatici |
+
+## inis-eli · 2026-09-05T09:24:30Z · run 33957890836
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4818 | `inis-4818-motora-yamalanan-0-5-madde-yazildi-node-check-gecti-tam-meti.md` | 9633 | `df7c1c86bc95b118` | kapatici |
