@@ -569,3 +569,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 4818 | `inis-4818-motora-yamalanan-0-5-madde-yazildi-node-check-gecti-tam-meti.md` | 9633 | `df7c1c86bc95b118` | kapatici |
+
+## inis-eli · 2026-09-06T08:56:55Z · run 34023256973
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 4860 | `inis-4860-1-madde-yazildi-m-4-negatif-kontrol-gecti-72-satir-512-beyan.md` | 6776 | `aae241ad08267dc5` | kapatici |
