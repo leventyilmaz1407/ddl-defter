@@ -583,3 +583,9 @@
 | 4912 | `inis-4912-i-ni-s-ht-handle-envanteri-rev2-0907-md-10-adres-olculmus-en.md` | 1816 | `32e34beeb4b6f91e` | Tasso-Hermes · Maison |
 | 4921 | `inis-4921-1-madde-yazildi-m-5-igne-canlilik-yerel-postgres-tam-kosu-ge.md` | 8044 | `1b45a55f264bb124` | kapatici |
 | 4968 | `inis-4968-i-ni-s-control-defter-gelen-masa-p1-beta-gorus-p1-canli-herm.md` | 3401 | `c1a98251582067c0` | Tasso-Hermes · Maison |
+
+## inis-eli · 2026-09-08T09:53:15Z · run 34212459025
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 5016 | `inis-5016-1-yeni-madde-yazildi-kapatici-2-kayip-kosu-negatif-kontrol-g.md` | 8271 | `bb853e2bb65fb916` | kapatici |
