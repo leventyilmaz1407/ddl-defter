@@ -1,0 +1,16 @@
+# 📥 İNİŞ — FOUNDER ADIM LİSTESİ · Dixon Hill KDP (Founder 10 Eyl: "TESCİL TAMAM, sen hazırla, ben ne yapacaksam tek tek yaz") · A hesap/kimlik/vergi/Payoneer 6 adım · B yükleme 8 adım · C Bluesky DNS TXT (Cloudflare) · D sözleşme · E Gibbon + #10/#11 · KÖTÜ HABER: e-kitapta Schedule-a-Release YOK (yalnız basılı) → aynı gün canlı = pre-order ya da sessiz-kademeli+T=duyuru; "günde 3 başlık" KDP'de yok, kural "10 per book format each week"; vergi profili doğrulanmadan yayın yok · FOUNDER_ADIMLAR_DIXON_HILL_KDP_2026-09-10.md sha16 b23bbf209039b9a8
+
+`masa:` **Medya · Misel** · `an:` 2026-09-10T07:11:12.338816+00:00 · `damga:` verified
+`kaynak:` p1-beta/control/DEFTER/gelen/FOUNDER_ADIMLAR_DIXON_HILL_KDP_2026-09-10.md
+`ev_defteri.id:` 5296
+
+---
+
+OKUDUM: 5218–5232 başlıkları; Moretus kasa notu (4c31653f, tamamı) · Teresa karar listesi (2747afad, tamamı) · ROLLER briefi (71d30713, başlık/satır düzeyi) · paste sheet PUBLIC v1 (cbd44ffe, başlık düzeyi) · Tloupas ACK (472d2a65, satır düzeyi).
+KÜNYE: p1-beta/control/DEFTER/gelen/FOUNDER_ADIMLAR_DIXON_HILL_KDP_2026-09-10.md · sha16 b23bbf209039b9a8 · 10.813 B · 74 satır.
+OZET: (1) KDP help 12 sayfa bu turda açıldı (Create Account · Accepted IDs · Verify identity · Complete Tax Profile · PSP FAQ · Setting up pre-orders · Content Guidelines · Timelines · Start a Series · Create a Book · Schedule a Release · Payment Options); alıntılar sayfadan kesildi. (2) Üç düzeltme: Schedule a Release e-kitaba kapalı (sayfa: "eBooks" uygun değil) → "yedisi aynı gün" yalnız pre-order (≥72 s önce son dosya, 18 aya kadar) ya da sessiz-kademeli + T=duyuru; "günde 3 yeni başlık" KDP alanında 0 (2 arama) — KDP metni "10 per book format each week" → 7 cilt tek günde yüklenebilir; "We must receive and validate your tax identity before you can… publish new books" → sıra hesap→kimlik→vergi→yükleme, Payoneer ödeme için şart (KYC 45 gün), yayın için şart olduğu sayfada yazmıyor. (3) Kimlik: tüzel hesapta yetkili temsilcinin fizikî kimliği (TR: pasaport/sürücü/kimlik/ikamet), ~30 s, hata → 72 s. Vergi: TIN = ülke TIN'i (VKN) kabul; varsayılan %30; W-8 3. yılın sonunda düşer; %10 TR–US Md.12 = aktarım (IRS Table 1 PDF boş döndü) → ekranda görünen oran yazılacak. (4) Türkiye KDP EFT listesinde 0 geçiş → PSP (Payoneer) yolu. (5) Bluesky: ddl-international.com NS Cloudflare; _atproto.books TXT yok; kayıt adımları föyde (DID hesap açılınca). (6) Gibbon: FINAL ×7'de 25 geçiş (Vol.2 ×12), açıklama yasaklarına girmez → kalabilir, karar Founder; ilk "5 geçiş" sayımım kesik görüntüden — komutla düzeltildi.
+FOUNDER-SORUSU: sessiz-kademeli mi pre-order mı · #10/#11 "h" ne · Gibbon kalsın mı · A5'te ekranda görünen stopaj oranı.
+SINIF: iniş (Founder adım listesi; hesap/imza/DNS Founder eli, m.27).
+◇ ÖLÇTÜM: web_fetch ×12 KDP + alt-ajan alıntı tablosu (aktarım değil: sayfa metinleri bu turda çekildi) · dig NS/TXT · grep -o Gibbon ×7 · 5 masa dosyası sha16.
+◇ HATIRLADIM: TR–US %10 · Payoneer KYC belge listesi · Cloudflare arayüz adları.
+◇ SIRADAKİ: A1–A6 · Founder (Moretus yanında) · şimdi | üç kelime (kademe/pre-order · #10/#11 · Gibbon) · Founder · okununca | B1–B8 · Founder (Teresa yanında) · Tloupas EPUB + basılabilir | C1–C5 · Founder · A bitince.

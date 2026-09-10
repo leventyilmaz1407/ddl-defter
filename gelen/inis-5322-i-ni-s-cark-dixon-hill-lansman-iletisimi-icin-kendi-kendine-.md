@@ -1,0 +1,16 @@
+# ⚙️ İNİŞ — ÇARK · Dixon Hill lansman iletişimi için kendi kendine dönen günlük döngü (Founder: "her gün yenileyecek ve otomatik basacak, mümkünse bensiz bir loop… Hermes ve sen") · tasarım + state.json (S0) + yasak.json + 7 kartlık Bluesky kuyruğu + newsletter #1 taslağı + Bluesky/Buttondown gönderim scriptleri (node --check OK, dry-run fail-closed) + launchd plist + kurulum README (6 komut) + Hermes 2 görev promptu · zamanlı görev dixon-hill-cark-medya2 AÇILDI (08:20 TR) · DIXON_HILL_CARK/ klasörü, tasarım sha16 24654af54734089d
+
+`masa:` **Medya · Misel** · `an:` 2026-09-10T08:14:30.503089+00:00 · `damga:` verified
+`kaynak:` p1-beta/control/DEFTER/gelen/DIXON_HILL_CARK/DIXON_HILL_CARK_TASARIM_2026-09-10.md
+`ev_defteri.id:` 5322
+
+---
+
+OKUDUM: Hermes 2 bugünkü satırları (5219 · 5225 · 5226 · 5233 · 5249 · 5255 · 5292 · 5298 · 5300 · 5313) + Teslim 1 başlıkları (16.656 B) · list_scheduled_tasks (postacı · hasat · Miselbaşı 23:05 · Üçbeyi 22:40 · gece nöbeti açık; tasso-hermes-masasi kapalı 26 Ağu).
+KÜNYE: p1-beta/control/DEFTER/gelen/DIXON_HILL_CARK/ — DIXON_HILL_CARK_TASARIM_2026-09-10.md 24654af54734089d 13.175 B · state.json ea9422e1 · yasak.json 6f97407d · queue/bluesky_posts.json 9ef59115 · queue/newsletter_01.md c76bc300 · scripts/dh_bluesky_post.mjs e17a8af4 (7.403 B) · scripts/dh_buttondown_send.mjs 94aeae14 · scripts/com.ddlbooks.dh-bluesky.plist e1e7657c · scripts/README_KURULUM.md 93bb5c97 · HERMES2_CARK_GOREV_PROMPTU.md dd9557a9.
+OZET: "Bensiz" üçe bölündü: (a) bensiz olan — okuma/ölçüm/durum makinesi/rapor/defter/kuyruk + Bluesky ve newsletter gönderimi (Founder Mac'inde launchd + API anahtarları); (b) bir kez Founder — hesaplar, uygulama şifresi/API anahtarı (~/.config/ddlbooks/env), launchd kurulumu, DNS; (c) hep Founder (m.27) — ödeme · DNS · basına mesaj · kriz cevabı · X/Instagram gönderimi (ücretsiz otomatik API yok → metin hazır, yapıştırma ≤1 dk/gün). Günlük Founder yükü: 12 satır + ≤3 düğme (tek kelime). Durum makinesi S0→S9 yalnız kanıtla ilerler; T = L7'yi izleyen ilk iş günü; kırmızı halka = o gün gönderim yok + sebep. Kill-test Pazartesi (ölü ASIN 404 + sahte Trek kartı RED). Ölçüldü: node --check ×2 OK · JSON ×3 geçerli · dry-run onaysız → DURDU exit 2 · yasak tarama 7/7 kart temiz, negatif kontroller isabet, kelime sınırı ("vidalia") geçti. Hermes yarısı: 08:05 koşusu, kendi promptu dosyada — Hermes 2 kendi penceresinde açar (inşacı ≠ denetçi).
+FOUNDER-SORUSU: (1) README 6 komut + Bluesky uygulama şifresi + Buttondown API anahtarı (hesaplar açılınca) (2) zamanlı göreve bir kez "Run now" (araç izinlerini önceden onaylar) (3) X/IG için Buffer/Zapier ücreti mi, yapıştırma mı.
+SINIF: iniş (tasarım + kurulum; hesap/anahtar/DNS Founder eli).
+◇ ÖLÇTÜM: 10 dosya sha16 · node -v 22.23.2 · node --check ×2 · JSON ×3 · dry-run ×2 · yasak birim testi · create_scheduled_task dönüşü (08:28 jitter).
+◇ HATIRLADIM: Buttondown API uç noktası/alan adları (dokümana bakılmadı; script --dry-run + panel doğrulaması ister) · X/IG API politikaları (sayfalar açılmadı) · Bluesky 1 MB görsel sınırı · launchd'nin kapalı Mac'te koşmaması.
+◇ SIRADAKİ: README 6 komut · Founder · hesaplar açılınca | Hermes görevi · Hermes 2 · prompt okununca | ilk koşu · dixon-hill-cark-medya2 · 11 Eyl 08:2x TR (ya da Founder "Run now").
