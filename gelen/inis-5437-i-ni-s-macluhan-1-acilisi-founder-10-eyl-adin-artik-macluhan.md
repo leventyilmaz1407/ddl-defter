@@ -1,0 +1,16 @@
+# 📥 İNİŞ — MacLUHAN 1 AÇILIŞI (Founder 10 Eyl: "adın artık MacLuhan 1; öğren kim, teknikler, 2026 cutting edge, online ad/satış, milyon opportunity") · McLuhan kanonu kaynaklı (Britannica · estate · UM böl.1 MIT PDF · Oxford Ref · CJC 1998) · 2026 durum 43 satır + satış/CRO 32 satır (≈130 sayfa; URL+tarih) · KÖTÜ HABER: A10 Mar 2026 Amazon reklam trafiği değer kaybetti → dış trafik/e-posta ana kaldıraç · KENP Tem 2026 $0,004221 · liste=gelir ($300 vs $15 medyan) · Kindle Deals adaylığı ≥90 gün önerisi (F-6 → T+90) · SERİ SAYFASI 1-CLICK VAR (KDP sayfası açıldı; Moretus "Select'te yok" satırına CONTRA) · Amazon Attribution KDP'ye açık ücretsiz · ARC BookSirens $10+$2 · fırsat haritası 12 · plana 12 değişiklik · 3 Founder kelimesi (prequel magnet · SB AI video aracı · Substack haftalık) · MACLUHAN1_ACILIS_…md sha16 2b20a1341c92cb06
+
+`masa:` **Medya · Misel** · `an:` 2026-09-10T15:41:53.579828+00:00 · `damga:` verified
+`kaynak:` p1-beta/control/DEFTER/gelen/MACLUHAN1_ACILIS_KIM_YONTEM_2026_FIRSAT_HARITASI_2026-09-10.md
+`ev_defteri.id:` 5437
+
+---
+
+OKUDUM: alt-ajan raporları ×3 (bu tur) · KDP G83483M7NAQMBX46 (curl, kendi op): "1-click ordering, or bulk buy, allows readers to buy all of the eBooks in your series with one click"; kapanma: >25 başlık · çoklu edisyon · Kindle'da olmayan · pre-order — Select istisnası YOK.
+KÜNYE: p1-beta/control/DEFTER/gelen/MACLUHAN1_ACILIS_KIM_YONTEM_2026_FIRSAT_HARITASI_2026-09-10.md · sha16 2b20a1341c92cb06 · 14.075 B · 74 satır | DIXON_HILL_CARK/state.json: el=MacLuhan 1, kenp_oran 0.004221.
+OZET: (1) McLuhan: "the message of any medium is the change of scale or pace or pattern" — günde-bir-defter-satırı bir tempo kararıdır; soğuk medya = katılım (noir tutar, açıklamaz); tetrad lansmana uygulandı; "All advertising advertises advertising" (estate) → reklam yayıncının defter tutma biçimini reklam eder. Williams eleştirisi kayıtlı. (2) 2026: A10 dış trafiği ödüllendiriyor; Books CPC $0,38/ACOS %19 satıcı tabanı; KENP $0,004221; e-posta listesi gelirin en sert göstergesi; BookTok Avrupa €800 M; karanlık tür talebi ↑; Kobo Plus 34 bölge; Audible modeli değişti; Kickstarter yayıncılık $45 M. (3) Ölçülemeyen: TikTok Shop kitap verisi · Shorts satış etkisi · yüzsüz video kanıtı · KU rozeti etkisi · box set kanibalizasyon · Meta/TikTok kitap vaka verisi. (4) MORETUS'A CONTRA: seri sayfası 1-click bulk buy var (≥2 canlı cilt); "Select'te yok" bu sayfada desteklenmiyor. MORETUS'A DÜZELTME ÖNERİSİ: Kindle Deals/Prime adaylığı KDP tavsiyesi ≥90 gün → F-6 T+90. (5) Plana 12 değişiklik: Substack haftalık · Telegram bot · Attribution etiketleri · SB testi T+14 · okuma-devam kapıları · BookSirens · T+90 adaylık · KENP oranı · prequel magnet kararı · box set tekil önce · video satış vaadi yok.
+FOUNDER-SORUSU: prequel magnet evet/hayır · SB AI video aracı evet/hayır · Substack haftalık evet/hayır.
+SINIF: iniş (araştırma + plan revizyonu; hesap/gönderim yok).
+◇ ÖLÇTÜM: 3 alt-ajan (aktarım, tablolar URL'li) + KDP seri sayfası kendi op'um + state.json.
+◇ HATIRLADIM: Advertising Age 1976 birincil · ALLi medyan · Substack 5 M · TikTok JV kapanış teyidi · Audible sayfası.
+◇ SIRADAKİ: 3 kelime · Founder · okununca | Attribution föyü + Telegram bot scripti · MacLuhan 1 · hesaplar | 1-click ölçümü · ÇARK · ≥2 cilt canlı.

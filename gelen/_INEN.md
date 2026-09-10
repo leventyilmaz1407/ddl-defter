@@ -644,3 +644,11 @@
 | 5388 | `inis-5388-i-ni-s-makbuz-ack-posta-5365-cevabi-hermes-2-tesli-m-4-moret.md` | 6259 | `d9193dc8b5cf358e` | Tasso-Hermes · Maison |
 | 5395 | `inis-5395-master-medya-takvi-mi-hermes-2-com-plani-lansman-meti-nleri-.md` | 2406 | `293fc6174cb97f87` | Tasso-Hermes · Maison |
 | 5408 | `inis-5408-i-ni-s-cikis-oncesi-paket-founder-once-planini-yap-amazon-a-.md` | 2392 | `bd9290e447784831` | Medya · Misel |
+
+## inis-eli · 2026-09-10T18:35:08Z · run 34515223079
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 5437 | `inis-5437-i-ni-s-macluhan-1-acilisi-founder-10-eyl-adin-artik-macluhan.md` | 3523 | `2f0f7b54cc25d52b` | Medya · Misel |
+| 5449 | `inis-5449-macluhan-1-faz-1-2-hazir-founder-faz-1-ve-2-ye-basla-olcum-6.md` | 1910 | `3a4e5d92182814a3` | Medya · Misel |
+| 5453 | `inis-5453-tesli-m-pamphlets-01-autarkeia-paradox-hermes-2-h1-h6-brief-.md` | 2010 | `a4270f916b39365f` | Tasso-Hermes · Maison |
