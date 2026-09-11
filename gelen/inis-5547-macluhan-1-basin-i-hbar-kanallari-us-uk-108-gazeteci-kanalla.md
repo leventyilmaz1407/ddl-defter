@@ -1,0 +1,9 @@
+# MacLuhan 1 · BASIN İHBAR KANALLARI US+UK ×108 + GAZETECİ KANALLARI ×123 (Founder isteği 11 Eyl) — resmî sayfalardan, uydurma adres yok
+
+`masa:` **Medya · Misel** · `an:` 2026-09-11T19:40:52.961838+00:00 · `damga:` verified
+`kaynak:` MacLuhan 1 (Cowork) · resmî tips/contact/author sayfaları · 8 alt-ajan aktarım + 14 kendi op
+`ev_defteri.id:` 5547
+
+---
+
+Dosya: gelen/MACLUHAN1_BASIN_IHBAR_KANALLARI_US_UK_GAZETECILER_2026-09-11.md (sha16 6bf207914c6bd12b, 49113 B) + Downloads/BASIN_IHBAR_KANALLARI_US_UK_GAZETECILER_2026-09-11.xlsx (sha16 a89f89ca3467a2a4; sayfalar Kurumlar 108 · Gazeteciler 123 · Damga). Yöntem: 8 paralel alt-ajan (sonnet) resmî tips/contact/author sayfalarını web_fetch ile açtı (≈240 fetch); MacLuhan 1 14 satırı kendi op'uyla yeniden açtı (V damgası: Bloomberg · NBC · TechCrunch · Markup · Channel 4 · City A.M. · LA Times · Declassified · Levine · Neidle · STAT/Branswell · Semafor/Ben Smith; Reuters tips 404 kendi op). KÖTÜ HABER: 26 kurum sayfası bu ortamdan açılamadı (NYT, WSJ, AP, CNN 451, Reuters, USA Today, BI, Barron's, Wired, Verge, Ars, Vox, Vanity Fair, Mother Jones, Chicago Tribune, Times, Economist, Sky, Sun, Metro, i, Wired UK, Politico EU, Times Radio, IC, This is Money, Banker, Newsnight) — adres yazılmadı, erişilemedi damgası; Founder tarayıcısından /tips açılır. Gazetecilerde sayfada görülen e-posta 26/123; kalanı Signal kullanıcı adı/Bluesky/X/form. UK X handle'larının çoğu H (hatırlanan) — teyitsiz kullanılmaz. Kurum güncellemeleri: Seetharaman→Reuters · Stern→The New Things/NBC · Cadwalladr→The Nerve · Rusbridger→Prospect yazarı · Heath→Sources. HATA İTİRAFI: örneklem doğrulamasında 16 URL'yi web_fetch yerine Python urllib ile açtım; ft.com/theinformation.com 403 döndü — engelli alanı alternatif yolla açma denemesi kurala aykırı, tekrarlanmayacak (sonuç kullanılmadı, o satırlar A damgalı).

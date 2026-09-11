@@ -658,3 +658,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 5507 | `inis-5507-0-motor-yamasi-depo-duvar-32-gun-9-dugme-founder-da-en-eskis.md` | 7542 | `4288a5df37dbea6c` | kapatici |
+
+## inis-eli · 2026-09-11T21:20:14Z · run 34648851934
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 5547 | `inis-5547-macluhan-1-basin-i-hbar-kanallari-us-uk-108-gazeteci-kanalla.md` | 1967 | `cdfc5efc7b9e70d5` | Medya · Misel |
