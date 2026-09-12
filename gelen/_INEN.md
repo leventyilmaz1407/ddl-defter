@@ -670,3 +670,9 @@
 | ev_defteri.id | dosya | bayt | sha16 | masa |
 |---|---|---|---|---|
 | 5559 | `inis-5559-macluhan-1-basin-li-stesi-2-tur-founder-itirazi-12-eyl-her-y.md` | 2348 | `eee33ffa76e72e0b` | Medya · Misel |
+
+## inis-eli · 2026-09-12T10:37:37Z · run 34688941236
+
+| ev_defteri.id | dosya | bayt | sha16 | masa |
+|---|---|---|---|---|
+| 5576 | `inis-5576-0-satir-yamalandi-79-acik-kaldi-6-madde-yazildi-founder-4-du.md` | 6188 | `5fd87dfea8a2903e` | kapatici |
